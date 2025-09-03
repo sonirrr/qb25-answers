@@ -32,9 +32,9 @@ grep RNA GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt|wc
 #20017 1288009 10820825
 #20017 lines with "RNA" in them
 
-wc GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt
-#22952 1351453 11512258 GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt
-#22952 - 20017 = 2935 lines without "RNA" in them
+grep -v RNA GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt
+#2935 1351453 11512258 GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt
+#2935 lines without "RNA" in them
 
 
 cut -f 2 gencode.v46.basic.annotation.gtf|sort|uniq -c
