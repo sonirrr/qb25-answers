@@ -28,9 +28,14 @@ cut -f 6 GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt|sort|uniq -c|sort|t
 #3480 Blood
 #Skin, Brain, and Blood have the most samples
 
-grep RNA GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_tpm.gct|wc
-#1376 23920384 58969389 
-#1376 lines with "RNA" in them
+grep RNA GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt|wc
+#20017 1288009 10820825
+#20017 lines with "RNA" in them
+
+wc GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt
+#22952 1351453 11512258 GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt
+#22952 - 20017 = 2935 lines without "RNA" in them
+
 
 cut -f 2 gencode.v46.basic.annotation.gtf|sort|uniq -c
 #1 ##contact: gencode-help@ebi.ac.uk
