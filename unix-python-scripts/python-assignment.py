@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# this is for Comp Bootcamp 2025 Sept. 3 afternoon assignment
+# Exercise 2: Recalculate ce11_genes.bed scores using Python
 
 import sys
 my_file = open(sys.argv[1])
