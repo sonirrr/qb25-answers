@@ -9,3 +9,4 @@ combdf_kc <- bind_rows( df_kc19, df_kc16, .id="assembly" )
 
 ggplot(data = combdf_kc, aes(x = start, y = count, color = assembly)) + 
   geom_line() + facet_wrap("chr", scales = "free")
+
