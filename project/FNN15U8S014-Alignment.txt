@@ -1,0 +1,3123 @@
+RID: FNN15U8S014	
+Job Title:Nucleotide Sequence				
+Program: BLASTN 
+Database: rRNA_typestrains/16S_ribosomal_RNA 16S ribosomal RNA (Bacteria and Archaea type strains)
+Query #1:  Query ID: lcl|Query_2535463 Length: 253
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Segatella copri DSM 18205 strain JCM 13464 16S ribosomal RNA,...  Segatella co... NA              537011     468    468   100%  9e-132 100.00 1493       NR_113411.1      
+Segatella copri DSM 18205 strain CB7 16S ribosomal RNA, partia... Segatella co... NA              537011     468    468   100%  9e-132 100.00 1494       NR_040877.1      
+Segatella hominis strain BCRC 81118 16S ribosomal RNA, partial... Segatella ho... NA              2518605    435    435   100%  1e-121 97.63  1484       NR_180452.1      
+Prevotella vespertina strain A2879 16S ribosomal RNA, partial...  Prevotella v... NA              2608404    396    396   100%  5e-110 94.88  1489       NR_175509.1      
+Prevotella jejuni strain CD3:28 16S ribosomal RNA, partial...     Prevotella j... NA              1177574    396    396   100%  5e-110 94.88  1484       NR_109628.1      
+Prevotella histicola strain JCM 15637 16S ribosomal RNA, parti... Prevotella h... NA              470565     396    396   100%  5e-110 94.88  1480       NR_113105.1      
+Prevotella histicola strain T05-04 16S ribosomal RNA, partial...  Prevotella h... NA              470565     396    396   100%  5e-110 94.88  1453       NR_044407.1      
+Prevotella veroralis strain ATCC 33779 16S ribosomal RNA,...      Prevotella v... NA              28137      390    390   100%  2e-108 94.49  1478       NR_029148.1      
+Prevotella scopos JCM 17725 16S ribosomal RNA, partial sequence   Prevotella s... NA              1236518    385    385   100%  1e-106 94.09  1492       NR_114305.1      
+Prevotella fusca JCM 17724 16S ribosomal RNA, partial sequence    Prevotella f... NA              1236517    385    385   100%  1e-106 94.09  1492       NR_114304.1      
+Prevotella veroralis strain JCM 6290 16S ribosomal RNA, partia... Prevotella v... NA              28137      385    385   100%  1e-106 94.09  1492       NR_113124.1      
+Prevotella scopos JCM 17725 strain W2052 16S ribosomal RNA,...    Prevotella s... NA              1236518    385    385   100%  1e-106 94.09  1453       NR_116726.1      
+Prevotella fusca JCM 17724 strain W1435 16S ribosomal RNA,...     Prevotella f... NA              1236517    385    385   100%  1e-106 94.09  1453       NR_116725.1      
+Prevotella veroralis strain ATCC 33779 16S ribosomal RNA,...      Prevotella v... NA              28137      385    385   100%  1e-106 94.09  1453       NR_115327.1      
+Prevotella melaninogenica ATCC 25845 16S ribosomal RNA, partia... Prevotella m... NA              553174     379    379   100%  5e-105 93.68  1531       NR_102895.1      
+Prevotella melaninogenica ATCC 25845 strain JCM 6325 16S...       Prevotella m... NA              553174     379    379   100%  5e-105 93.68  1480       NR_113113.1      
+Segatella albensis strain JCM 12258 16S ribosomal RNA, partial... Segatella al... NA              77768      379    379   100%  5e-105 93.70  1481       NR_113092.1      
+Prevotella melaninogenica ATCC 25845 16S ribosomal RNA, partia... Prevotella m... NA              553174     379    379   100%  5e-105 93.68  1506       NR_042843.1      
+Segatella albensis strain M384 16S ribosomal RNA, partial...      Segatella al... NA              77768      379    379   100%  5e-105 93.70  1495       NR_025300.1      
+Segatella salivae strain EPSA11 16S ribosomal RNA, partial...     Segatella sa... NA              228604     374    374   100%  2e-103 93.28  1493       NR_024816.1      
+Segatella oulorum strain JCM 14966 16S ribosomal RNA, partial...  Segatella ou... NA              28136      368    368   100%  1e-101 92.91  1491       NR_113120.1      
+Segatella oulorum strain WPH 179 16S ribosomal RNA, partial...    Segatella ou... NA              28136      368    368   100%  1e-101 92.91  1510       NR_029147.1      
+Hallella mizrahii strain LKV-178-WT-2A 16S ribosomal RNA,...      Hallella miz... NA              2606637    357    357   100%  2e-98  92.13  1493       NR_180829.1      
+Segatella oris strain JCM 12252 16S ribosomal RNA, partial...     Segatella oris  NA              28135      357    357   100%  2e-98  92.09  1481       NR_113118.1      
+Segatella maculosa strain JCM 15638 16S ribosomal RNA, partial... Segatella ma... NA              439703     357    357   100%  2e-98  92.13  1405       NR_113110.1      
+Segatella maculosa strain W1609 16S ribosomal RNA, partial...     Segatella ma... NA              439703     357    357   100%  2e-98  92.13  1454       NR_116050.1      
+Segatella maculosa strain W1609 16S ribosomal RNA, partial...     Segatella ma... NA              439703     357    357   100%  2e-98  92.13  1454       NR_044270.1      
+Segatella oris strain ATCC 33573 16S ribosomal RNA, partial...    Segatella oris  NA              28135      353    353   100%  3e-97  91.70  1480       NR_044628.1      
+Prevotella herbatica strain WR041 16S ribosomal RNA, partial...   Prevotella h... NA              2801997    351    351   100%  1e-96  91.70  1472       NR_178237.1      
+Prevotella micans strain JCM 16134 16S ribosomal RNA, partial...  Prevotella m... NA              189723     351    351   100%  1e-96  91.70  1490       NR_113112.1      
+Prevotella denticola strain JCM 13449 16S ribosomal RNA, parti... Prevotella d... NA              28129      351    351   100%  1e-96  91.73  1492       NR_113101.1      
+Prevotella micans strain E7.56 16S ribosomal RNA, partial...      Prevotella m... NA              189723     351    351   100%  1e-96  91.70  1480       NR_041908.1      
+Prevotella multiformis DSM 16608 strain PPPA21 16S ribosomal...   Prevotella m... NA              888743     351    351   100%  1e-96  91.70  1494       NR_041056.1      
+Prevotella denticola strain ATCC 35308 16S ribosomal RNA,...      Prevotella d... NA              28129      351    351   100%  1e-96  91.73  1506       NR_042842.1      
+Segatella paludivivens strain JCM 13650 16S ribosomal RNA,...     Segatella pa... NA              185294     346    346   100%  5e-95  91.30  1491       NR_113122.1      
+Segatella paludivivens strain KB7 16S ribosomal RNA, partial...   Segatella pa... NA              185294     346    346   100%  5e-95  91.30  1418       NR_040924.1      
+Massiliprevotella massiliensis strain Marseille-P2439 16S...      Massiliprevo... NA              1816687    335    335   100%  1e-91  90.55  1493       NR_147404.1      
+Prevotella illustrans strain A2931 16S ribosomal RNA, partial...  Prevotella i... NA              2800387    335    335   100%  1e-91  90.55  1489       NR_181266.1      
+Prevotella marseillensis strain Marseille-P8229 16S ribosomal...  Prevotella m... NA              2479840    335    335   100%  1e-91  90.55  1526       NR_179449.1      
+Xylanibacter rarus strain 109 16S ribosomal RNA, complete...      Xylanibacter... NA              1676614    335    335   100%  1e-91  90.55  1529       NR_178978.1      
+Hallella colorans strain A1336 16S ribosomal RNA, partial...      Hallella col... NA              1703337    329    329   100%  5e-90  90.12  1491       NR_151886.1      
+Prevotella disiens strain JCM 6334 16S ribosomal RNA, partial...  Prevotella d... NA              28130      329    329   100%  5e-90  90.16  1492       NR_113103.1      
+Prevotella bivia strain JCM 6331 16S ribosomal RNA, partial...    Prevotella b... NA              28125      329    329   100%  5e-90  90.12  1490       NR_113096.1      
+Segatella baroniae strain JCM 13447 16S ribosomal RNA, partial... Segatella ba... NA              305719     329    329   100%  5e-90  90.16  1494       NR_113094.1      
+Segatella baroniae strain E9.33 16S ribosomal RNA, partial...     Segatella ba... NA              305719     329    329   100%  5e-90  90.16  1455       NR_043224.1      
+Prevotella disiens strain EUH N 1304-72B 16S ribosomal RNA,...    Prevotella d... NA              28130      329    329   100%  5e-90  90.16  1479       NR_029149.1      
+Prevotella bivia strain ATCC 29303 16S ribosomal RNA, partial...  Prevotella b... NA              28125      329    329   100%  5e-90  90.12  1471       NR_044629.1      
+Prevotella corporis strain JCM 8529 16S ribosomal RNA, partial... Prevotella c... NA              28128      324    324   100%  2e-88  89.72  1479       NR_113099.1      
+Hoylesella shahii strain EHS11 16S ribosomal RNA, partial...      Hoylesella s... NA              228603     324    324   100%  2e-88  89.76  1490       NR_024815.1      
+Prevotella corporis strain Lambe 532-70A 16S ribosomal RNA,...    Prevotella c... NA              28128      324    324   100%  2e-88  89.72  1473       NR_044627.1      
+Prevotella amnii strain JCM 14753 16S ribosomal RNA, partial...   Prevotella a... NA              419005     318    318   100%  1e-86  89.37  1491       NR_113093.1      
+Prevotella amnii strain CCUG 53648 16S ribosomal RNA, partial...  Prevotella a... NA              419005     318    318   100%  1e-86  89.37  1474       NR_042587.1      
+Segatella cerevisiae strain JCM 30867 16S ribosomal RNA, parti... Segatella ce... NA              2053716    313    313   100%  5e-85  88.93  1413       NR_179240.1      
+Prevotella ihumii strain Marseille-P3385 16S ribosomal RNA,...    Prevotella i... NA              1917878    313    313   100%  5e-85  88.93  1453       NR_176803.1      
+Prevotella phocaeensis strain SN19 16S ribosomal RNA, partial...  Prevotella p... NA              1776388    313    313   100%  5e-85  88.93  1496       NR_179444.1      
+Prevotella lacticifex strain R5019 16S ribosomal RNA, partial...  Prevotella l... NA              2854755    313    313   100%  5e-85  88.98  1492       NR_179380.1      
+Hoylesella oralis ATCC 33269 strain JCM 12251 16S ribosomal RN... Hoylesella o... NA              873533     313    313   100%  5e-85  88.93  1496       NR_113117.1      
+Prevotella dentasini JCM 15908 16S ribosomal RNA, partial...      Prevotella d... NA              1236509    313    313   100%  5e-85  88.93  1494       NR_113102.1      
+Prevotella dentasini JCM 15908 strain NUM 1903 16S ribosomal...   Prevotella d... NA              1236509    313    313   100%  5e-85  88.93  1525       NR_112848.1      
+Hoylesella oralis ATCC 33269 16S ribosomal RNA, partial sequence  Hoylesella o... NA              873533     313    313   100%  5e-85  88.93  1510       NR_042841.1      
+Prevotella dentalis DSM 3688 16S ribosomal RNA, partial sequence  Prevotella d... NA              908937     307    307   100%  2e-83  88.54  1533       NR_102481.1      
+Prevotella dentalis DSM 3688 strain JCM 13448 16S ribosomal RN... Prevotella d... NA              908937     307    307   100%  2e-83  88.54  1483       NR_113100.1      
+Prevotella dentalis strain ES2772 16S ribosomal RNA, partial...   Prevotella d... NA              52227      307    307   100%  2e-83  88.54  1472       NR_029284.1      
+Leyella stercorea DSM 18206 strain CB35 16S ribosomal RNA,...     Leyella ster... NA              1002367    307    307   100%  2e-83  88.54  1488       NR_041364.1      
+Hallella seregens ATCC 51272 16S ribosomal RNA, partial sequence  Hallella ser... NA              1336250    307    307   100%  2e-83  88.54  1463       NR_044864.1      
+Prevotella brunnea strain A2672 16S ribosomal RNA, partial...     Prevotella b... NA              2508867    302    302   100%  1e-81  88.19  1489       NR_180411.1      
+Xylanibacter oryzae DSM 17970 strain JCM 13648 16S ribosomal...   Xylanibacter... NA              915438     302    302   100%  1e-81  88.19  1490       NR_113227.1      
+Hoylesella loescheii strain JCM 8530 16S ribosomal RNA, partia... Hoylesella l... NA              840        302    302   100%  1e-81  88.14  1476       NR_113109.1      
+Hoylesella loescheii strain JCM 12249 16S ribosomal RNA, parti... Hoylesella l... NA              840        302    302   100%  1e-81  88.14  1490       NR_113108.1      
+Hoylesella loescheii strain NCTC 11321 16S ribosomal RNA,...      Hoylesella l... NA              840        302    302   100%  1e-81  88.14  1451       NR_043216.1      
+Hoylesella timonensis 4401737 = DSM 22865 = JCM 15640 16S...      Hoylesella t... NA              1122992    296    296   100%  5e-80  87.75  1493       NR_113123.1      
+Prevotella falsenii strain 04052 16S ribosomal RNA, partial...    Prevotella f... NA              515414     296    296   100%  5e-80  87.80  1494       NR_041684.1      
+Hoylesella timonensis 4401737 = DSM 22865 = JCM 15640 16S...      Hoylesella t... NA              1122992    296    296   100%  5e-80  87.75  1454       NR_043894.1      
+Xylanibacter oryzae DSM 17970 strain KB3 16S ribosomal RNA,...    Xylanibacter... NA              915438     296    296   100%  5e-80  87.84  1335       NR_040923.1      
+Hallella multisaccharivorax strain PPPA20 16S ribosomal RNA,...   Hallella mul... NA              310514     296    296   100%  5e-80  87.80  1491       NR_041285.1      
+Xylanibacter ruminicola strain Bryant 23 16S ribosomal RNA,...    Xylanibacter... NA              839        291    291   100%  2e-78  87.40  1519       NR_102887.1      
+Hoylesella buccalis strain JCM 12246 16S ribosomal RNA, partia... Hoylesella b... NA              28127      285    285   100%  1e-76  87.01  1493       NR_113098.1      
+Segatella buccae ATCC 33574 strain JCM 12245 16S ribosomal RNA... Segatella bu... NA              873513     285    285   100%  1e-76  86.96  1480       NR_113097.1      
+Hallella bergensis strain JCM 13869 16S ribosomal RNA, partial... Hallella ber... NA              242750     285    285   100%  1e-76  87.01  1495       NR_113095.1      
+Prevotella aurantiaca strain OMA31 16S ribosomal RNA, partial...  Prevotella a... NA              596085     285    285   100%  1e-76  87.01  1481       NR_112878.1      
+Segatella buccae ATCC 33574 16S ribosomal RNA, partial sequence   Segatella bu... NA              873513     283    283   100%  4e-76  86.56  1473       NR_044631.1      
+Hoylesella saccharolytica JCM 17484 16S ribosomal RNA, partial... Hoylesella s... NA              1236516    279    279   100%  5e-75  86.56  1491       NR_113320.1      
+Prevotella pallens ATCC 700821 strain JCM 11140 16S ribosomal...  Prevotella p... NA              997353     279    279   100%  5e-75  86.61  1492       NR_113121.1      
+Hoylesella nanceiensis strain JCM 15639 16S ribosomal RNA,...     Hoylesella n... NA              425941     279    279   100%  5e-75  86.67  1489       NR_113114.1      
+Hoylesella saccharolytica JCM 17484 strain D033B-12-2 16S...      Hoylesella s... NA              1236516    279    279   100%  5e-75  86.56  1452       NR_116832.1      
+Hoylesella nanceiensis strain AIP 261.03 16S ribosomal RNA,...    Hoylesella n... NA              425941     279    279   100%  5e-75  86.67  1394       NR_043292.1      
+Hallella bergensis strain 94067913 16S ribosomal RNA, partial...  Hallella ber... NA              242750     279    279   100%  5e-75  86.61  1456       NR_042857.1      
+Xylanibacter ruminicola strain ATCC 19189 16S ribosomal RNA,...   Xylanibacter... NA              839        279    279   100%  5e-75  85.83  1473       NR_044632.1      
+Prevotella pallens strain 10371 16S ribosomal RNA, partial...     Prevotella p... NA              60133      279    279   100%  5e-75  86.61  1454       NR_026417.1      
+Pseudoprevotella muciniphila strain E39 16S ribosomal RNA,...     Pseudoprevot... NA              2133944    274    274   100%  2e-73  86.38  1476       NR_173659.1      
+Bacteroides propionicigenes strain NSJ-90 16S ribosomal RNA,...   Bacteroides ... NA              2834112    274    274   100%  2e-73  86.38  1387       NR_181731.1      
+Prevotella intermedia ATCC 25611 = DSM 20706 strain JCM 11150...  Prevotella i... NA              1122984    274    274   100%  2e-73  86.17  1380       NR_113107.1      
+Prevotella intermedia strain JCM 12248 16S ribosomal RNA,...      Prevotella i... NA              28131      274    274   100%  2e-73  86.17  1494       NR_113106.1      
+Bacteroides clarus YIT 12056 strain JCM 16067 16S ribosomal RN... Bacteroides ... NA              762984     274    274   100%  2e-73  86.38  1488       NR_113065.1      
+Bacteroides clarus YIT 12056 16S ribosomal RNA, partial sequence  Bacteroides ... NA              762984     274    274   100%  2e-73  86.38  1479       NR_112893.1      
+Prevotella intermedia ATCC 25611 = DSM 20706 16S ribosomal RNA... Prevotella i... NA              1122984    274    274   100%  2e-73  86.17  1370       NR_116809.1      
+Xylanibacter brevis strain GA33 16S ribosomal RNA, partial...     Xylanibacter... NA              83231      274    274   100%  2e-73  86.38  1493       NR_041954.1      
+Prevotella intermedia strain B422 16S ribosomal RNA, partial...   Prevotella i... NA              28131      274    274   100%  2e-73  86.17  1459       NR_026119.1      
+Hoylesella buccalis ATCC 35310 16S ribosomal RNA, partial...      Hoylesella b... NA              679190     270    270   100%  3e-72  85.43  1474       NR_044630.1      
+Prevotella intermedia ATCC 25611 = DSM 20706 16S ribosomal RNA... Prevotella i... NA              1122984    267    267   100%  4e-71  85.38  1364       NR_114639.1      
+
+
+Alignments:
+
+>Segatella copri DSM 18205 strain JCM 13464 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113411.1 Length: 1493
+Range 1: 529 to 781
+
+Score:468 bits(253), Expect:9e-132, 
+Identities:253/253(100%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  589  TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  648
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  649  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  708
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  709  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  768
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  769  GGTATCGAACAGG  781
+
+
+
+
+>Segatella copri DSM 18205 strain CB7 16S ribosomal RNA, partial sequence
+Sequence ID: NR_040877.1 Length: 1494
+Range 1: 529 to 781
+
+Score:468 bits(253), Expect:9e-132, 
+Identities:253/253(100%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  589  TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  648
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  649  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  708
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  709  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  768
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  769  GGTATCGAACAGG  781
+
+
+
+
+>Segatella hominis strain BCRC 81118 16S ribosomal RNA, partial sequence
+Sequence ID: NR_180452.1 Length: 1484
+Range 1: 509 to 761
+
+Score:435 bits(235), Expect:1e-121, 
+Identities:247/253(98%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  509  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||| ||||||| ||||||||||||||||||||||| | |||
+Sbjct  569  TAAGCGTGTTGTGAAATGTAGAGGCTCAACCTCTGCACTGCAGCGCGAACTGGTCTTCTT  628
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  629  GAGTACGCACAACGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  688
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||
+Sbjct  689  GAACTCCGATTGCGAAGGCAGCTCACGGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  748
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  749  GGTATCGAACAGG  761
+
+
+
+
+>Prevotella vespertina strain A2879 16S ribosomal RNA, partial sequence
+Sequence ID: NR_175509.1 Length: 1489
+Range 1: 529 to 781
+
+Score:396 bits(214), Expect:5e-110, 
+Identities:241/254(95%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  529  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  |||||||||||
+Sbjct  589  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTTCCT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||||||||||||| ||||
+Sbjct  708  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Prevotella jejuni strain CD3:28 16S ribosomal RNA, partial sequence
+Sequence ID: NR_109628.1 Length: 1484
+Range 1: 510 to 762
+
+Score:396 bits(214), Expect:5e-110, 
+Identities:241/254(95%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  510  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  569
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  |||||||||||
+Sbjct  570  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTTCCT  628
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  629  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  688
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||| ||||||||| ||||
+Sbjct  689  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGC  748
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  749  GGGTATCGAACAGG  762
+
+
+
+
+>Prevotella histicola strain JCM 15637 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113105.1 Length: 1480
+Range 1: 517 to 769
+
+Score:396 bits(214), Expect:5e-110, 
+Identities:241/254(95%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  517  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGGAGAT  576
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  |||||||||||
+Sbjct  577  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTTCCT  635
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  636  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  695
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||||||||||||| ||||
+Sbjct  696  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGC  755
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  756  GGGTATCGAACAGG  769
+
+
+
+
+>Prevotella histicola strain T05-04 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044407.1 Length: 1453
+Range 1: 509 to 761
+
+Score:396 bits(214), Expect:5e-110, 
+Identities:241/254(95%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  509  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGGAGAT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  |||||||||||
+Sbjct  569  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTTCCT  627
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  628  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  687
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||||||||||||| ||||
+Sbjct  688  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGC  747
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  748  GGGTATCGAACAGG  761
+
+
+
+
+>Prevotella veroralis strain ATCC 33779 16S ribosomal RNA, partial sequence
+Sequence ID: NR_029148.1 Length: 1478
+Range 1: 537 to 789
+
+Score:390 bits(211), Expect:2e-108, 
+Identities:240/254(94%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  537  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  596
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  |||||||||||
+Sbjct  597  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTTCCT  655
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  656  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  715
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||| ||||||||| ||||
+Sbjct  716  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGC  775
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  776  GGGTATCGAACAGG  789
+
+
+
+
+>Prevotella scopos JCM 17725 16S ribosomal RNA, partial sequence
+Sequence ID: NR_114305.1 Length: 1492
+Range 1: 529 to 781
+
+Score:385 bits(208), Expect:1e-106, 
+Identities:239/254(94%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  529  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  |||||||||||
+Sbjct  589  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTTCCT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||| ||||||||| ||||
+Sbjct  708  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||| ||||||
+Sbjct  768  GGGTATCAAACAGG  781
+
+
+
+
+>Prevotella fusca JCM 17724 16S ribosomal RNA, partial sequence
+Sequence ID: NR_114304.1 Length: 1492
+Range 1: 529 to 781
+
+Score:385 bits(208), Expect:1e-106, 
+Identities:239/254(94%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGGGAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  ||||||| |||
+Sbjct  589  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTCCCT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||| ||||||||| ||||
+Sbjct  708  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Prevotella veroralis strain JCM 6290 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113124.1 Length: 1492
+Range 1: 529 to 781
+
+Score:385 bits(208), Expect:1e-106, 
+Identities:239/254(94%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  529  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  |||||||||||
+Sbjct  589  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTTCCT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||| ||||||||| ||||||||| ||||
+Sbjct  708  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCCACTGACGCTTAAGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Prevotella scopos JCM 17725 strain W2052 16S ribosomal RNA, partial sequence
+Sequence ID: NR_116726.1 Length: 1453
+Range 1: 509 to 761
+
+Score:385 bits(208), Expect:1e-106, 
+Identities:239/254(94%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  509  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  |||||||||||
+Sbjct  569  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTTCCT  627
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  628  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  687
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||| ||||||||| ||||
+Sbjct  688  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGC  747
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||| ||||||
+Sbjct  748  GGGTATCAAACAGG  761
+
+
+
+
+>Prevotella fusca JCM 17724 strain W1435 16S ribosomal RNA, partial sequence
+Sequence ID: NR_116725.1 Length: 1453
+Range 1: 509 to 761
+
+Score:385 bits(208), Expect:1e-106, 
+Identities:239/254(94%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  509  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGGGAT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  ||||||| |||
+Sbjct  569  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTCCCT  627
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  628  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  687
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||| ||||||||| ||||
+Sbjct  688  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGC  747
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  748  GGGTATCGAACAGG  761
+
+
+
+
+>Prevotella veroralis strain ATCC 33779 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115327.1 Length: 1453
+Range 1: 509 to 761
+
+Score:385 bits(208), Expect:1e-106, 
+Identities:239/254(94%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  509  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||||||||||||||||| ||| |||||||  |||||||||||
+Sbjct  569  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTTCCT  627
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  628  TGAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  687
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||| ||||||||| ||||||||| ||||
+Sbjct  688  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCCACTGACGCTTAAGCTCGAAGGTGC  747
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  748  GGGTATCGAACAGG  761
+
+
+
+
+>Prevotella melaninogenica ATCC 25845 16S ribosomal RNA, partial sequence
+Sequence ID: NR_102895.1 Length: 1531
+Range 1: 537 to 789
+
+Score:379 bits(205), Expect:5e-105, 
+Identities:237/253(94%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  537  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGGAGAT  596
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||| |||||||||||||||||||||||||||||| | ||||||||  ||||||||||||
+Sbjct  597  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTGAATTGCAGCGCATACTGGTTTCCTT  656
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||||||||| || |||||||||||| ||||||||||||||||||||||||| |||||
+Sbjct  657  GAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAA  716
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| || ||||||||||||||||| ||||||||| |||||
+Sbjct  717  GAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGCG  776
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  777  GGTATCAAACAGG  789
+
+
+
+
+>Prevotella melaninogenica ATCC 25845 strain JCM 6325 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113113.1 Length: 1480
+Range 1: 517 to 769
+
+Score:379 bits(205), Expect:5e-105, 
+Identities:237/253(94%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  517  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGGAGAT  576
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||| |||||||||||||||||||||||||||||| | ||||||||  ||||||||||||
+Sbjct  577  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTGAATTGCAGCGCATACTGGTTTCCTT  636
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||||||||| || |||||||||||| ||||||||||||||||||||||||| |||||
+Sbjct  637  GAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAA  696
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| || ||||||||||||||||| ||||||||| |||||
+Sbjct  697  GAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGCG  756
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  757  GGTATCAAACAGG  769
+
+
+
+
+>Segatella albensis strain JCM 12258 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113092.1 Length: 1481
+Range 1: 517 to 769
+
+Score:379 bits(205), Expect:5e-105, 
+Identities:238/254(94%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| | | ||
+Sbjct  517  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCGGTATAT  576
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            |||||||||||||||||||||  ||||||| |||| || |||||||||||||||||| ||
+Sbjct  577  TAAGCGTGTTGTGAAATGTAGGTGCTCAACATCTG-ACTTGCAGCGCGAACTGGTTTACT  635
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  636  TGAGTACGCACAACGTAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  695
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||| ||||||||||||||||||||||||
+Sbjct  696  AGAACTCCGATTGCGAAGGCAGCTTACGGGAGCGCCACTGACGCTGAAGCTCGAAAGTGC  755
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  756  GGGTATCGAACAGG  769
+
+
+
+
+>Prevotella melaninogenica ATCC 25845 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042843.1 Length: 1506
+Range 1: 509 to 761
+
+Score:379 bits(205), Expect:5e-105, 
+Identities:237/253(94%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  509  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGGAGAT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||| |||||||||||||||||||||||||||||| | ||||||||  ||||||||||||
+Sbjct  569  TAAGTGTGTTGTGAAATGTAGACGCTCAACGTCTGAATTGCAGCGCATACTGGTTTCCTT  628
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||||||||| || |||||||||||| ||||||||||||||||||||||||| |||||
+Sbjct  629  GAGTACGCACAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAA  688
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| || ||||||||||||||||| ||||||||| |||||
+Sbjct  689  GAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGCG  748
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  749  GGTATCAAACAGG  761
+
+
+
+
+>Segatella albensis strain M384 16S ribosomal RNA, partial sequence
+Sequence ID: NR_025300.1 Length: 1495
+Range 1: 529 to 781
+
+Score:379 bits(205), Expect:5e-105, 
+Identities:238/254(94%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| | | ||
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCGGTATAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            |||||||||||||||||||||  ||||||| |||| || |||||||||||||||||| ||
+Sbjct  589  TAAGCGTGTTGTGAAATGTAGGTGCTCAACATCTG-ACTTGCAGCGCGAACTGGTTTACT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTACGCACAACGTAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||| ||||||||||||||||||||||||
+Sbjct  708  AGAACTCCGATTGCGAAGGCAGCTTACGGGAGCGCCACTGACGCTGAAGCTCGAAAGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Segatella salivae strain EPSA11 16S ribosomal RNA, partial sequence
+Sequence ID: NR_024816.1 Length: 1493
+Range 1: 527 to 779
+
+Score:374 bits(202), Expect:2e-103, 
+Identities:236/253(93%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  527  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGGAT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||||||||||||||||||||| | |||||||||||||||||  |||
+Sbjct  587  TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGAATTGCAGCGCGAACTGGTTCACTT  646
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||| |||||| || |||||||||||| ||||||||||||||||||||||||| |||||
+Sbjct  647  GAGTATGCACAACGTAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAA  706
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| || ||||| ||||||||||||||||||||| |||||
+Sbjct  707  GAACTCCGATTGCGAAGGCAGCTTACGGGAGCACAACTGACGCTGAAGCTCGAAGGTGCG  766
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  767  GGTATCAAACAGG  779
+
+
+
+
+>Segatella oulorum strain JCM 14966 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113120.1 Length: 1491
+Range 1: 527 to 779
+
+Score:368 bits(199), Expect:1e-101, 
+Identities:236/254(93%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| |||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  527  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTAGAT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            |||||||||||||||||||||| ||||||| |||| || |||||||||||||||||| ||
+Sbjct  587  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTG-ACTTGCAGCGCGAACTGGTTTACT  645
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            |||||  |||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  646  TGAGTGTGCACAACGTAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  705
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||| ||||||||||||||||||||| ||||
+Sbjct  706  AGAACTCCGATTGCGAAGGCAGCTTACGGGAGCACAACTGACGCTGAAGCTCGAAGGTGC  765
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||| ||||||
+Sbjct  766  GGGTATCAAACAGG  779
+
+
+
+
+>Segatella oulorum strain WPH 179 16S ribosomal RNA, partial sequence
+Sequence ID: NR_029147.1 Length: 1510
+Range 1: 532 to 784
+
+Score:368 bits(199), Expect:1e-101, 
+Identities:236/254(93%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| |||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  532  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTAGAT  591
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            |||||||||||||||||||||| ||||||| |||| || |||||||||||||||||| ||
+Sbjct  592  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTG-ACTTGCAGCGCGAACTGGTTTACT  650
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            |||||  |||||| || |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  651  TGAGTGTGCACAACGTAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  710
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||| ||||||||||||||||||||| ||||
+Sbjct  711  AGAACTCCGATTGCGAAGGCAGCTTACGGGAGCACAACTGACGCTGAAGCTCGAAGGTGC  770
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||| ||||||
+Sbjct  771  GGGTATCAAACAGG  784
+
+
+
+
+>Hallella mizrahii strain LKV-178-WT-2A 16S ribosomal RNA, partial sequence
+Sequence ID: NR_180829.1 Length: 1493
+Range 1: 529 to 781
+
+Score:357 bits(193), Expect:2e-98, 
+Identities:234/254(92%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGGAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||| ||||||||||||| ||| |||||||  ||||||   ||
+Sbjct  589  TAAGTGTGTTGTGAAATGTAGGCGCTCAACGTCTG-ACTTGCAGCGCATACTGGTCCACT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| ||||||| | |||||||||| || ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTGCGCACAACGCGGGCGGAATTTGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||| ||||||||||||||||||| | ||||||||||||||||||||||||||||||||
+Sbjct  708  AGAACCCCGATTGCGAAGGCAGCTCGCGGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Segatella oris strain JCM 12252 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113118.1 Length: 1481
+>Segatella oris strain JCM 8540 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113119.1 Length: 1481 
+Range 1: 516 to 768
+
+Score:357 bits(193), Expect:2e-98, 
+Identities:233/253(92%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  516  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGGAT  575
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||| ||  |||||||||||||||||||||||||||||||   |||
+Sbjct  576  TAAGCGTGTTGTGAAATGCAGGTGCTCAACGTCTGCACTGCAGCGCGAACTGGTCCACTT  635
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || ||| |  |||||||||||| ||||||||||||||||||||||||| |||||
+Sbjct  636  GAGTGTGCGCAACGCAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAA  695
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||||||||||||||||  | ||||| |||||||||||||||||||||||||||
+Sbjct  696  GAACTCCGATTGCGAAGGCAGCTTGCGGGAGCACAACTGACGCTGAAGCTCGAAAGTGCG  755
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  756  GGTATCGAACAGG  768
+
+
+
+
+>Segatella maculosa strain JCM 15638 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113110.1 Length: 1405
+Range 1: 440 to 692
+
+Score:357 bits(193), Expect:2e-98, 
+Identities:234/254(92%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  440  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGGAT  499
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||||||||||||||||||||| || ||||||||||||||||   ||
+Sbjct  500  TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCGAACTGGTCCACT  558
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            |||||  |||||| |  |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  559  TGAGTGTGCACAACGCAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  618
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||| ||||||||||||||||||  | ||||| | ||||||||||||||||||||||||
+Sbjct  619  AGAACCCCGATTGCGAAGGCAGCTTGCGGGAGCACGACTGACGCTGAAGCTCGAAAGTGC  678
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  679  GGGTATCGAACAGG  692
+
+
+
+
+>Segatella maculosa strain W1609 16S ribosomal RNA, partial sequence
+Sequence ID: NR_116050.1 Length: 1454
+Range 1: 508 to 760
+
+Score:357 bits(193), Expect:2e-98, 
+Identities:234/254(92%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  508  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGGAT  567
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||||||||||||||||||||| || ||||||||||||||||   ||
+Sbjct  568  TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCGAACTGGTCCACT  626
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            |||||  |||||| |  |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  627  TGAGTGTGCACAACGCAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  686
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||| ||||||||||||||||||  | ||||| | ||||||||||||||||||||||||
+Sbjct  687  AGAACCCCGATTGCGAAGGCAGCTTGCGGGAGCACGACTGACGCTGAAGCTCGAAAGTGC  746
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  747  GGGTATCGAACAGG  760
+
+
+
+
+>Segatella maculosa strain W1609 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044270.1 Length: 1454
+Range 1: 508 to 760
+
+Score:357 bits(193), Expect:2e-98, 
+Identities:234/254(92%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  508  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGGAT  567
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||||||||||||||||||||| || ||||||||||||||||   ||
+Sbjct  568  TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTG-ACTTGCAGCGCGAACTGGTCCACT  626
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            |||||  |||||| |  |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  627  TGAGTGTGCACAACGCAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  686
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||| ||||||||||||||||||  | ||||| | ||||||||||||||||||||||||
+Sbjct  687  AGAACCCCGATTGCGAAGGCAGCTTGCGGGAGCACGACTGACGCTGAAGCTCGAAAGTGC  746
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  747  GGGTATCGAACAGG  760
+
+
+
+
+>Segatella oris strain ATCC 33573 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044628.1 Length: 1480
+Range 1: 536 to 788
+
+Score:353 bits(191), Expect:3e-97, 
+Identities:232/253(92%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  536  TACGGAAGGTCCNGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGGAT  595
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||| ||  |||||||||||||||||||||||||||||||   |||
+Sbjct  596  TAAGCGTGTTGTGAAATGCAGGTGCTCAACGTCTGCACTGCAGCGCGAACTGGTCCACTT  655
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || ||| |  |||||||||||| ||||||||||||||||||||||||| |||||
+Sbjct  656  GAGTGTGCGCAACGCAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAA  715
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||||||||||||||||  | ||||| |||||||||||||||||||||||||||
+Sbjct  716  GAACTCCGATTGCGAAGGCAGCTTGCGGGAGCACAACTGACGCTGAAGCTCGAAAGTGCG  775
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  776  GGTATCGAACAGG  788
+
+
+
+
+>Prevotella herbatica strain WR041 16S ribosomal RNA, partial sequence
+Sequence ID: NR_178237.1 Length: 1472
+Range 1: 518 to 770
+
+Score:351 bits(190), Expect:1e-96, 
+Identities:232/253(92%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  518  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTCTGT  577
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||| ||||||| |||| | |||||||||||||||    |||
+Sbjct  578  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTGAATTGCAGCGCGAACTGGCAGACTT  637
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || ||| || ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  638  GAGTGTGCGCAACGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  697
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| || ||||| |||||||||||||||||||||||||||
+Sbjct  698  GAACTCCGATTGCGAAGGCAGCTTACGGGAGCACAACTGACGCTGAAGCTCGAAAGTGCG  757
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  758  GGTATCGAACAGG  770
+
+
+
+
+>Prevotella micans strain JCM 16134 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113112.1 Length: 1490
+Range 1: 527 to 779
+
+Score:351 bits(190), Expect:1e-96, 
+Identities:232/253(92%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| |||||||||||||||||||||||||||||||||||||||||| | | ||
+Sbjct  527  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGAATAT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||  ||||||| ||||||||||||||||||||||| | |||
+Sbjct  587  TAAGCGTGTTGTGAAATGTAGTTGCTCAACATCTGCACTGCAGCGCGAACTGGTATTCTT  646
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || | | || ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  647  GAGTGTGCGCGACGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  706
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| ||  |||| ||||||||||| ||||||||| |||||
+Sbjct  707  GAACTCCGATTGCGAAGGCAGCTTACGAGAGCACAACTGACGCTTAAGCTCGAAGGTGCG  766
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  767  GGTATCGAACAGG  779
+
+
+
+
+>Prevotella denticola strain JCM 13449 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113101.1 Length: 1492
+Range 1: 529 to 781
+
+Score:351 bits(190), Expect:1e-96, 
+Identities:233/254(92%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGGGAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||| ||| ||||||||| ||| |||||||  ||||||| |||
+Sbjct  589  TAAGTGTGTTGTGAAATGTAGGCGCCCAACGTCTG-ACTTGCAGCGCATACTGGTTCCCT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||| ||| |  |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTACGCGCAACGCCGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||| |||||||||||||||||   | ||||||||||||||||||||||||||| ||||
+Sbjct  708  AGAACCCCGATTGCGAAGGCAGCCGGCGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Prevotella micans strain E7.56 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041908.1 Length: 1480
+Range 1: 507 to 759
+
+Score:351 bits(190), Expect:1e-96, 
+Identities:232/253(92%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| |||||||||||||||||||||||||||||||||||||||||| | | ||
+Sbjct  507  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGAATAT  566
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||  ||||||| ||||||||||||||||||||||| | |||
+Sbjct  567  TAAGCGTGTTGTGAAATGTAGTTGCTCAACATCTGCACTGCAGCGCGAACTGGTATTCTT  626
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || | | || ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  627  GAGTGTGCGCGACGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  686
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| ||  |||| ||||||||||| ||||||||| |||||
+Sbjct  687  GAACTCCGATTGCGAAGGCAGCTTACGAGAGCACAACTGACGCTTAAGCTCGAAGGTGCG  746
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  747  GGTATCGAACAGG  759
+
+
+
+
+>Prevotella multiformis DSM 16608 strain PPPA21 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041056.1 Length: 1494
+Range 1: 531 to 783
+
+Score:351 bits(190), Expect:1e-96, 
+Identities:232/253(92%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  531  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGGGAT  590
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||| |||||||||||||||| |||||||||||||   ||||||||  ||||||| ||||
+Sbjct  591  TAAGTGTGTTGTGAAATGTAGGCGCTCAACGTCTGATGTGCAGCGCATACTGGTTCCCTT  650
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||||| ||| |  |||||||||||| ||||||||||||||||||||||||| |||||
+Sbjct  651  GAGTACGCGCAACGCCGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAA  710
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| |||||||||||||||||   | ||||||||||||||||||||||||||| |||||
+Sbjct  711  GAACCCCGATTGCGAAGGCAGCCGGCGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGCG  770
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  771  GGTATCGAACAGG  783
+
+
+
+
+>Prevotella denticola strain ATCC 35308 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042842.1 Length: 1506
+Range 1: 509 to 761
+
+Score:351 bits(190), Expect:1e-96, 
+Identities:233/254(92%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  509  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGGGAT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACT-GCAGCGCGAACTGGTTTCCT  119
+            |||| |||||||||||||||| ||| ||||||||| ||| |||||||  ||||||| |||
+Sbjct  569  TAAGTGTGTTGTGAAATGTAGGCGCCCAACGTCTG-ACTTGCAGCGCATACTGGTTCCCT  627
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||| ||| |  |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  628  TGAGTACGCGCAACGCCGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  687
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||| |||||||||||||||||   | ||||||||||||||||||||||||||| ||||
+Sbjct  688  AGAACCCCGATTGCGAAGGCAGCCGGCGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGC  747
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  748  GGGTATCGAACAGG  761
+
+
+
+
+>Segatella paludivivens strain JCM 13650 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113122.1 Length: 1491
+Range 1: 527 to 779
+
+Score:346 bits(187), Expect:5e-95, 
+Identities:231/253(91%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  527  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTCTGT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||| ||||||| |||| | |||||||||||||||    |||
+Sbjct  587  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTGAATTGCAGCGCGAACTGGCAGACTT  646
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || ||| || ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  647  GAGTGTGCGCAACGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  706
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||| ||||||||||||||| || ||||| |||||||||||||||||||||||||||
+Sbjct  707  GAACTCCAATTGCGAAGGCAGCTTACGGGAGCACAACTGACGCTGAAGCTCGAAAGTGCG  766
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  767  GGTATCGAACAGG  779
+
+
+
+
+>Segatella paludivivens strain KB7 16S ribosomal RNA, partial sequence
+Sequence ID: NR_040924.1 Length: 1418
+Range 1: 506 to 758
+
+Score:346 bits(187), Expect:5e-95, 
+Identities:231/253(91%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  506  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTCTGT  565
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||| ||||||| |||| | |||||||||||||||    |||
+Sbjct  566  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTGAATTGCAGCGCGAACTGGCAGACTT  625
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || ||| || ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  626  GAGTGTGCGCAACGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  685
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||| ||||||||||||||| || ||||| |||||||||||||||||||||||||||
+Sbjct  686  GAACTCCAATTGCGAAGGCAGCTTACGGGAGCACAACTGACGCTGAAGCTCGAAAGTGCG  745
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  746  GGTATCGAACAGG  758
+
+
+
+
+>Massiliprevotella massiliensis strain Marseille-P2439 16S ribosomal RNA, partial sequence
+Sequence ID: NR_147404.1 Length: 1493
+Range 1: 529 to 781
+
+Score:335 bits(181), Expect:1e-91, 
+Identities:230/254(91%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCG-GAGA  59
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| 
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGAGG  588
+
+Query  60   TTAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+             ||||||||||||||||||||| ||| ||||||||||||||||||||||||||     ||
+Sbjct  589  -TAAGCGTGTTGTGAAATGTAGGCGCCCAACGTCTGCACTGCAGCGCGAACTGCCCCACT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| ||| ||| |  ||||||| |||| ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTGCGCGCAACGCCGGCGGAACTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||| ||||||||||||||||||  | |||||| |||||||||||||||||||||| ||
+Sbjct  708  AGAACCCCGATTGCGAAGGCAGCTGGCGGGAGCGTAACTGACGCTGAAGCTCGAAAGCGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Prevotella illustrans strain A2931 16S ribosomal RNA, partial sequence
+Sequence ID: NR_181266.1 Length: 1489
+Range 1: 528 to 780
+
+Score:335 bits(181), Expect:1e-91, 
+Identities:230/254(91%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||   ||
+Sbjct  528  TACGGAAGGTCCTGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGTAT  587
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            |||| ||||||||||||  || ||||||||||||| || ||||||||  |||||||  ||
+Sbjct  588  TAAGTGTGTTGTGAAATTCAGTCGCTCAACGTCTG-ACTTGCAGCGCATACTGGTTCACT  646
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| ||| ||| |  |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  647  TGAGTGCGCGCAACGCAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  706
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||||||||| ||||||||||||  | ||||||||||||||||||| ||||||||||||
+Sbjct  707  AGAACTCCGATCGCGAAGGCAGCTTGCGGGAGCGCAACTGACGCTGATGCTCGAAAGTGC  766
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  767  GGGTATCGAACAGG  780
+
+
+
+
+>Prevotella marseillensis strain Marseille-P8229 16S ribosomal RNA, partial sequence
+Sequence ID: NR_179449.1 Length: 1526
+Range 1: 530 to 782
+
+Score:335 bits(181), Expect:1e-91, 
+Identities:230/254(91%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||| ||||||    |
+Sbjct  530  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGCAGGCCGTCCTT  589
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAA-CGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+            |||||||| |||||||||  |  |||||| |||  |||||||||||||||||||    ||
+Sbjct  590  TAAGCGTGCTGTGAAATGCCGCGGCTCAACCGT-GGCACTGCAGCGCGAACTGGAGGACT  648
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||| | || |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  649  TGAGTACGCACGAGGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  708
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||||| ||||||||| ||
+Sbjct  709  AGAACTCCGATTGCGAAGGCAGCTTACCGGAGCGCAACTGACGCTGAGGCTCGAAAGCGC  768
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  769  GGGTATCGAACAGG  782
+
+
+
+
+>Xylanibacter rarus strain 109 16S ribosomal RNA, complete sequence
+Sequence ID: NR_178978.1 Length: 1529
+Range 1: 534 to 786
+
+Score:335 bits(181), Expect:1e-91, 
+Identities:230/254(91%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||| ||||||    |
+Sbjct  534  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGCAGGCCGTCCTT  593
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAA-CGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+            |||||||| |||||||||  |  |||||| |||  |||||||||||||||||||    ||
+Sbjct  594  TAAGCGTGCTGTGAAATGCCGCGGCTCAACCGT-GGCACTGCAGCGCGAACTGGAGGACT  652
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||| | || |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  653  TGAGTACGCACGAGGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  712
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||||||||||||||| ||||||||| ||
+Sbjct  713  AGAACTCCGATTGCGAAGGCAGCTTACCGGAGCGCAACTGACGCTGAGGCTCGAAAGCGC  772
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  773  GGGTATCGAACAGG  786
+
+
+
+
+>Hallella colorans strain A1336 16S ribosomal RNA, partial sequence
+Sequence ID: NR_151886.1 Length: 1491
+Range 1: 529 to 781
+
+Score:329 bits(178), Expect:5e-90, 
+Identities:228/253(90%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCGTTT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||||||| ||| |||||||||||  ||||||||||||||    |||
+Sbjct  589  TAAGCGTGTTGTGAAATGTAGGCGCCCAACGTCTGCATCGCAGCGCGAACTGGGACGCTT  648
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||||| ||| || |||||||||||| ||||||||||||||||||||||||| |||| 
+Sbjct  649  GAGTACGCGCAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAG  708
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| || ||||||  ||||||||| ||||||||| |||||
+Sbjct  709  GAACTCCGATTGCGAAGGCAGCTGACGGGAGCGGCACTGACGCTTAAGCTCGAAGGTGCG  768
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  769  GGTATCAAACAGG  781
+
+
+
+
+>Prevotella disiens strain JCM 6334 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113103.1 Length: 1492
+Range 1: 529 to 781
+
+Score:329 bits(178), Expect:5e-90, 
+Identities:229/254(90%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |  | |
+Sbjct  529  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTTGGT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            |||||||||||||||||||||| ||||||| |||| || ||||||||||||||| |  ||
+Sbjct  589  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTG-ACTTGCAGCGCGAACTGGCTGACT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||| ||||| || |||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  648  TGAGTACACACAACGTAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || |||| |  ||||||||| ||||||||| ||||
+Sbjct  708  AGAACTCCGATTGCGAAGGCAGCTTACGGGAGTGTTACTGACGCTTAAGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Prevotella bivia strain JCM 6331 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113096.1 Length: 1490
+Range 1: 527 to 779
+
+Score:329 bits(178), Expect:5e-90, 
+Identities:228/253(90%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| ||||||||||||||||||||||||||||||||||||||||||||     
+Sbjct  527  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTTTGG  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||  ||||||| |||  | ||||||||||||||     |||
+Sbjct  587  TAAGCGTGTTGTGAAATGTAGGAGCTCAACTTCTAGATTGCAGCGCGAACTGTCAGACTT  646
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| ||||||| || |||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  647  GAGTGCGCACAACGTAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAA  706
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| || ||||||||||||||||||||||||||| |||||
+Sbjct  707  GAACTCCGATTGCGAAGGCAGCTTACGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGCG  766
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  767  GGTATCGAACAGG  779
+
+
+
+
+>Segatella baroniae strain JCM 13447 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113094.1 Length: 1494
+Range 1: 529 to 781
+
+Score:329 bits(178), Expect:5e-90, 
+Identities:229/254(90%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||| ||||||||||||||||||||||||||  |||
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTCATTGGGTTTAAAGGGAGCGTAGGCCGTGGAT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||||||| ||||||||||||| || ||||||||||||||||   ||
+Sbjct  589  TAAGCGTGTTGTGAAATGTAGGCGCTCAACGTCTG-ACTTGCAGCGCGAACTGGTCCACT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            |||||  || | | |  |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  648  TGAGTGTGCGCGACGCAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+             |||| ||||||||||||||||||  | ||||| | ||||||||||| ||||||| ||||
+Sbjct  708  GGAACCCCGATTGCGAAGGCAGCTTGCGGGAGCACCACTGACGCTGAGGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Segatella baroniae strain E9.33 16S ribosomal RNA, partial sequence
+Sequence ID: NR_043224.1 Length: 1455
+>Segatella baroniae strain DSM 16972 16S ribosomal RNA, partial sequence
+Sequence ID: NR_116860.1 Length: 1455 
+Range 1: 509 to 761
+
+Score:329 bits(178), Expect:5e-90, 
+Identities:229/254(90%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||| ||||||||||||||||||||||||||  |||
+Sbjct  509  TACGGAAGGTCCGGGCGTTATCCGGATTCATTGGGTTTAAAGGGAGCGTAGGCCGTGGAT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||||||| ||||||||||||| || ||||||||||||||||   ||
+Sbjct  569  TAAGCGTGTTGTGAAATGTAGGCGCTCAACGTCTG-ACTTGCAGCGCGAACTGGTCCACT  627
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            |||||  || | | |  |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  628  TGAGTGTGCGCGACGCAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  687
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+             |||| ||||||||||||||||||  | ||||| | ||||||||||| ||||||| ||||
+Sbjct  688  GGAACCCCGATTGCGAAGGCAGCTTGCGGGAGCACCACTGACGCTGAGGCTCGAAGGTGC  747
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  748  GGGTATCGAACAGG  761
+
+
+
+
+>Prevotella disiens strain EUH N 1304-72B 16S ribosomal RNA, partial sequence
+Sequence ID: NR_029149.1 Length: 1479
+Range 1: 536 to 788
+
+Score:329 bits(178), Expect:5e-90, 
+Identities:229/254(90%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |  | |
+Sbjct  536  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTTGGT  595
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            |||||||||||||||||||||| ||||||| |||| || ||||||||||||||| |  ||
+Sbjct  596  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTG-ACTTGCAGCGCGAACTGGCTGACT  654
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||| ||||| || |||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  655  TGAGTACACACAACGTAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  714
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || |||| |  ||||||||| ||||||||| ||||
+Sbjct  715  AGAACTCCGATTGCGAAGGCAGCTTACGGGAGTGTTACTGACGCTTAAGCTCGAAGGTGC  774
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  775  GGGTATCGAACAGG  788
+
+
+
+
+>Prevotella bivia strain ATCC 29303 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044629.1 Length: 1471
+Range 1: 534 to 786
+
+Score:329 bits(178), Expect:5e-90, 
+Identities:228/253(90%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||| ||||||||||||||||||||||||||||||||||||||||||||     
+Sbjct  534  TACGGAAGGTTCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTTTGG  593
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||  ||||||| |||  | ||||||||||||||     |||
+Sbjct  594  TAAGCGTGTTGTGAAATGTAGTAGCTCAACTTCTAGATTGCAGCGCGAACTGTCAGACTT  653
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| ||||||| || |||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  654  GAGTGCGCACAACGTAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAA  713
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| || ||||||||||||||||||||||||||| |||||
+Sbjct  714  GAACTCCGATTGCGAAGGCAGCTTACGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGCG  773
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  774  GGTATCGAACAGG  786
+
+
+
+
+>Prevotella corporis strain JCM 8529 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113099.1 Length: 1479
+Range 1: 516 to 768
+
+Score:324 bits(175), Expect:2e-88, 
+Identities:227/253(90%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  516  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGCCTGT  575
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||| ||||||| |||| ||||||||||||||||| |  |||
+Sbjct  576  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTGAACTGCAGCGCGAACTGGCTGGCTT  635
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||| | ||| ||||||||||||| ||||||||||||||||||||||||||||| || 
+Sbjct  636  GAGTACACGCAACGTGGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAG  695
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||| |||||||||||||||||| |||| |  ||||||||| ||||||||| |||||
+Sbjct  696  GAACTCCTATTGCGAAGGCAGCTCACGGGAGTGTCACTGACGCTTAAGCTCGAAGGTGCG  755
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  756  GGTATCAAACAGG  768
+
+
+
+
+>Hoylesella shahii strain EHS11 16S ribosomal RNA, partial sequence
+Sequence ID: NR_024815.1 Length: 1490
+Range 1: 527 to 779
+
+Score:324 bits(175), Expect:2e-88, 
+Identities:228/254(90%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  527  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCCTCT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||||  |  ||||||| || | || |||||||||||||||    ||
+Sbjct  587  TAAGCGTGTTGTGAAATGCGGGTGCTCAACATCCG-ACTTGCAGCGCGAACTGGGGGGCT  645
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| |||  ||||| |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  646  TGAGTGCGCCGAAAGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  705
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| |||| ||||||||||||||||| ||||||||| | 
+Sbjct  706  AGAACTCCGATTGCGAAGGCAGCTTACTGTAGCGCAACTGACGCTGATGCTCGAAAGCGT  765
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  766  GGGTATCGAACAGG  779
+
+
+
+
+>Prevotella corporis strain Lambe 532-70A 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044627.1 Length: 1473
+Range 1: 537 to 789
+
+Score:324 bits(175), Expect:2e-88, 
+Identities:227/253(90%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  537  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGCCTGT  596
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||| ||||||| |||| ||||||||||||||||| |  |||
+Sbjct  597  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTGAACTGCAGCGCGAACTGGCTGGCTT  656
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||| | ||| ||||||||||||| ||||||||||||||||||||||||||||| || 
+Sbjct  657  GAGTACACGCAACGTGGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAG  716
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||| |||||||||||||||||| |||| |  ||||||||| ||||||||| |||||
+Sbjct  717  GAACTCCTATTGCGAAGGCAGCTCACGGGAGTGTCACTGACGCTTAAGCTCGAAGGTGCG  776
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  777  GGTATCAAACAGG  789
+
+
+
+
+>Prevotella amnii strain JCM 14753 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113093.1 Length: 1491
+Range 1: 527 to 779
+
+Score:318 bits(172), Expect:1e-86, 
+Identities:227/254(89%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||| |    |
+Sbjct  527  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGTTTGT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTA-GACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+            |||||||||||||||||||| || ||||||| | |  | |||||||||||||||    ||
+Sbjct  587  TAAGCGTGTTGTGAAATGTAAGA-GCTCAACTTTTAGATTGCAGCGCGAACTGGCAGACT  645
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| ||||||| || |||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  646  TGAGTGCGCACAACGTAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  705
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+             ||||||||||||||||||||||| || ||||||||||||||||| ||||||||| ||||
+Sbjct  706  CGAACTCCGATTGCGAAGGCAGCTTACGGGAGCGCAACTGACGCTAAAGCTCGAAGGTGC  765
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  766  GGGTATCGAACAGG  779
+
+
+
+
+>Prevotella amnii strain CCUG 53648 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042587.1 Length: 1474
+Range 1: 507 to 759
+
+Score:318 bits(172), Expect:1e-86, 
+Identities:227/254(89%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||| |    |
+Sbjct  507  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGTTTGT  566
+
+Query  61   TAAGCGTGTTGTGAAATGTA-GACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+            |||||||||||||||||||| || ||||||| | |  | |||||||||||||||    ||
+Sbjct  567  TAAGCGTGTTGTGAAATGTANGA-GCTCAACTTTTAGATTGCAGCGCGAACTGGCAGACT  625
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| ||||||| || |||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  626  TGAGTGCGCACAACGTAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  685
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+             ||||||||||||||||||||||| || ||||||||||||||||| ||||||||| ||||
+Sbjct  686  CGAACTCCGATTGCGAAGGCAGCTTACGGGAGCGCAACTGACGCTAAAGCTCGAAGGTGC  745
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  746  GGGTATCGAACAGG  759
+
+
+
+
+>Segatella cerevisiae strain JCM 30867 16S ribosomal RNA, partial sequence
+Sequence ID: NR_179240.1 Length: 1413
+Range 1: 484 to 736
+
+Score:313 bits(169), Expect:5e-85, 
+Identities:225/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  484  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCTCTT  543
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||| ||  || |||| ||||||||||||||||||||||    |||
+Sbjct  544  TAAGCGTGTTGTGAAATGCAGGTGCCCAACATCTGCACTGCAGCGCGAACTGGAGAGCTT  603
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||  ||||| | |  ||||||||| |||||||||||||||||||| |||||||||||||
+Sbjct  604  GAGGGCGCACGACGCAGGCGGAATTTGTGGTGTAGCGGTGAAATGCATAGATATCACGAA  663
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| ||||||||||||||||||  | |||||||| ||||||||||||||||||||||| 
+Sbjct  664  GAACCCCGATTGCGAAGGCAGCTTGCGGGAGCGCACCTGACGCTGAAGCTCGAAAGTGCA  723
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  724  GGTATCAAACAGG  736
+
+
+
+
+>Prevotella ihumii strain Marseille-P3385 16S ribosomal RNA, partial sequence
+Sequence ID: NR_176803.1 Length: 1453
+Range 1: 509 to 761
+
+Score:313 bits(169), Expect:5e-85, 
+Identities:225/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  509  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTTTTT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||||||| ||||||| |||| | |||||||||||||||    |||
+Sbjct  569  TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTGAATTGCAGCGCGAACTGGAAGACTT  628
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| | ||||| || |||||||||| ||||||||||||||||||||||||||| | |||
+Sbjct  629  GAGTGCACACAACGTAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATTATGAA  688
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||| || |||| | |||||||||| ||||||||| |||||
+Sbjct  689  GAACTCCGATTGCGAAGGCAGCTTACGGGAGTGTAACTGACGCTTAAGCTCGAAGGTGCG  748
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  749  GGTATCGAACAGG  761
+
+
+
+
+>Prevotella phocaeensis strain SN19 16S ribosomal RNA, partial sequence
+Sequence ID: NR_179444.1 Length: 1496
+Range 1: 530 to 782
+
+Score:313 bits(169), Expect:5e-85, 
+Identities:225/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| |    |
+Sbjct  530  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCAGTTTTT  589
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||| |||||||||||   |||||||   ||   |||||||||||||||    |||
+Sbjct  590  TAAGCGTGCTGTGAAATGTACCGGCTCAACCGGTGATGTGCAGCGCGAACTGGGAATCTT  649
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||||||  |||  ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  650  GAGTACGCAGTAAGCAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  709
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||||||| ||||||||  ||| |||| ||||||||||||||||||||||||||
+Sbjct  710  GAACTCCGATTGCGTAGGCAGCTTGCTGTAGCGTAACTGACGCTGAAGCTCGAAAGTGCG  769
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  770  GGTATCGAACAGG  782
+
+
+
+
+>Prevotella lacticifex strain R5019 16S ribosomal RNA, partial sequence
+Sequence ID: NR_179380.1 Length: 1492
+Range 1: 529 to 781
+
+Score:313 bits(169), Expect:5e-85, 
+Identities:226/254(89%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||  |||||||   |
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCACAGGCCGGCTGT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+             |||||||||||||||||||| ||||||||| ||| || ||||||||||||||     ||
+Sbjct  589  CAAGCGTGTTGTGAAATGTAGGCGCTCAACGCCTG-ACTTGCAGCGCGAACTGACGGTCT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| ||| ||| || ||||||||| || ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTGCGCGCAACGTTGGCGGAATTTGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||  ||||||||| ||||||||||| ||
+Sbjct  708  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGTTACTGACGCTTAAGCTCGAAAGCGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Hoylesella oralis ATCC 33269 strain JCM 12251 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113117.1 Length: 1496
+Range 1: 532 to 784
+
+Score:313 bits(169), Expect:5e-85, 
+Identities:225/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| |    |
+Sbjct  532  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCAGTTTTT  591
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||| |||||||||||   |||||||   ||   |||||||||||||||    |||
+Sbjct  592  TAAGCGTGCTGTGAAATGTACCGGCTCAACCGGTGATGTGCAGCGCGAACTGGGAATCTT  651
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||||||  |||  ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  652  GAGTACGCAGTAAGCAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  711
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||||||| ||||||||  ||| |||| ||||||||||||||||||||||||||
+Sbjct  712  GAACTCCGATTGCGTAGGCAGCTTGCTGTAGCGTAACTGACGCTGAAGCTCGAAAGTGCG  771
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  772  GGTATCGAACAGG  784
+
+
+
+
+>Prevotella dentasini JCM 15908 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113102.1 Length: 1494
+Range 1: 531 to 783
+
+Score:313 bits(169), Expect:5e-85, 
+Identities:225/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  | |
+Sbjct  531  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCGGGT  590
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||| |||||||||||||| ||||||||||||| |   ||||||||  |||||    |||
+Sbjct  591  TAAGTGTGTTGTGAAATGTGGACGCTCAACGTCCGATGTGCAGCGCATACTGGCCCGCTT  650
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| ||| ||| |  |||||||||||| ||||||||||||||||||||||||| |||| 
+Sbjct  651  GAGTGCGCGCAACGCAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAG  710
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| ||||||||||||||||||  | ||||||||||||||||||||||||||| |||||
+Sbjct  711  GAACCCCGATTGCGAAGGCAGCTTGCGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGCG  770
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  771  GGTATCGAACAGG  783
+
+
+
+
+>Prevotella dentasini JCM 15908 strain NUM 1903 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112848.1 Length: 1525
+Range 1: 540 to 792
+
+Score:313 bits(169), Expect:5e-85, 
+Identities:225/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  | |
+Sbjct  540  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCGGGT  599
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||| |||||||||||||| ||||||||||||| |   ||||||||  |||||    |||
+Sbjct  600  TAAGTGTGTTGTGAAATGTGGACGCTCAACGTCCGATGTGCAGCGCATACTGGCCCGCTT  659
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| ||| ||| |  |||||||||||| ||||||||||||||||||||||||| |||| 
+Sbjct  660  GAGTGCGCGCAACGCAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAG  719
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| ||||||||||||||||||  | ||||||||||||||||||||||||||| |||||
+Sbjct  720  GAACCCCGATTGCGAAGGCAGCTTGCGGGAGCGCAACTGACGCTGAAGCTCGAAGGTGCG  779
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  780  GGTATCGAACAGG  792
+
+
+
+
+>Hoylesella oralis ATCC 33269 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042841.1 Length: 1510
+Range 1: 512 to 764
+
+Score:313 bits(169), Expect:5e-85, 
+Identities:225/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| |    |
+Sbjct  512  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCAGTTTTT  571
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||| |||||||||||   |||||||   ||   |||||||||||||||    |||
+Sbjct  572  TAAGCGTGCTGTGAAATGTACCGGCTCAACCGGTGATGTGCAGCGCGAACTGGGAATCTT  631
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||||||||  |||  ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  632  GAGTACGCAGTAAGCAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  691
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||||||| ||||||||  ||| |||| ||||||||||||||||||||||||||
+Sbjct  692  GAACTCCGATTGCGTAGGCAGCTTGCTGTAGCGTAACTGACGCTGAAGCTCGAAAGTGCG  751
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  752  GGTATCGAACAGG  764
+
+
+
+
+>Prevotella dentalis DSM 3688 16S ribosomal RNA, partial sequence
+Sequence ID: NR_102481.1 Length: 1533
+Range 1: 525 to 777
+
+Score:307 bits(166), Expect:2e-83, 
+Identities:224/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| |  |
+Sbjct  525  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCATGT  584
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+             ||||||||||||||||| ||  |||||||  ||| | ||||||||||||||   | |||
+Sbjct  585  CAAGCGTGTTGTGAAATGCAGGTGCTCAACACCTGGATTGCAGCGCGAACTGTCGTGCTT  644
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || ||| || |||||||||||| ||||||||||||||||||||||||| |||| 
+Sbjct  645  GAGTGTGCGCAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAG  704
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| |||||||||||||||||| || |||||  |||||||||||||||||||| |||||
+Sbjct  705  GAACCCCGATTGCGAAGGCAGCTGACGGGAGCATAACTGACGCTGAAGCTCGAAGGTGCG  764
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  765  GGTATCGAACAGG  777
+
+
+
+
+>Prevotella dentalis DSM 3688 strain JCM 13448 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113100.1 Length: 1483
+Range 1: 516 to 768
+
+Score:307 bits(166), Expect:2e-83, 
+Identities:224/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| |  |
+Sbjct  516  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCATGT  575
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+             ||||||||||||||||| ||  |||||||  ||| | ||||||||||||||   | |||
+Sbjct  576  CAAGCGTGTTGTGAAATGCAGGTGCTCAACACCTGGATTGCAGCGCGAACTGTCGTGCTT  635
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || ||| || |||||||||||| ||||||||||||||||||||||||| |||| 
+Sbjct  636  GAGTGTGCGCAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAG  695
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| |||||||||||||||||| || |||||  |||||||||||||||||||| |||||
+Sbjct  696  GAACCCCGATTGCGAAGGCAGCTGACGGGAGCATAACTGACGCTGAAGCTCGAAGGTGCG  755
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  756  GGTATCGAACAGG  768
+
+
+
+
+>Prevotella dentalis strain ES2772 16S ribosomal RNA, partial sequence
+Sequence ID: NR_029284.1 Length: 1472
+Range 1: 496 to 748
+
+Score:307 bits(166), Expect:2e-83, 
+Identities:224/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| |  |
+Sbjct  496  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCATGT  555
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+             ||||||||||||||||| ||  |||||||  ||| | ||||||||||||||   | |||
+Sbjct  556  CAAGCGTGTTGTGAAATGCAGGTGCTCAACACCTGGATTGCAGCGCGAACTGTCGTGCTT  615
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || ||| || |||||||||||| ||||||||||||||||||||||||| |||| 
+Sbjct  616  GAGTGTGCGCAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAG  675
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| |||||||||||||||||| || |||||  |||||||||||||||||||| |||||
+Sbjct  676  GAACCCCGATTGCGAAGGCAGCTGACGGGAGCATAACTGACGCTGAAGCTCGAAGGTGCG  735
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  736  GGTATCGAACAGG  748
+
+
+
+
+>Leyella stercorea DSM 18206 strain CB35 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041364.1 Length: 1488
+Range 1: 525 to 777
+
+Score:307 bits(166), Expect:2e-83, 
+Identities:224/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||     
+Sbjct  525  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTTTGG  584
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||||| |  ||||||| |  ||| ||||||||||||||     |||
+Sbjct  585  TAAGCGTGTTGTGAAATGTCGGGGCTCAACCTGGGCATTGCAGCGCGAACTGCCAGACTT  644
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| ||||  |||| |||||||||||| ||||||||||||||||||||||||| |||||
+Sbjct  645  GAGTGCGCAGGAAGTAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAA  704
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||   ||| ||||||||||||||||||||||||||| | |
+Sbjct  705  GAACTCCGATTGCGAAGGCAGCCTGCTGTAGCGCAACTGACGCTGAAGCTCGAAAGCGTG  764
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  765  GGTATCGAACAGG  777
+
+
+
+
+>Hallella seregens ATCC 51272 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044864.1 Length: 1463
+Range 1: 506 to 758
+
+Score:307 bits(166), Expect:2e-83, 
+Identities:224/253(89%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| |  |
+Sbjct  506  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCATGT  565
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+             ||||||||||||||||| ||  |||||||  ||| | ||||||||||||||   | |||
+Sbjct  566  CAAGCGTGTTGTGAAATGCAGGTGCTCAACACCTGGATTGCAGCGCGAACTGTCGTGCTT  625
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  || ||| || |||||||||||| ||||||||||||||||||||||||| |||| 
+Sbjct  626  GAGTGTGCGCAACGTTGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGAG  685
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| |||||||||||||||||| || |||||  |||||||||||||||||||| |||||
+Sbjct  686  GAACCCCGATTGCGAAGGCAGCTGACGGGAGCATAACTGACGCTGAAGCTCGAAGGTGCG  745
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  746  GGTATCGAACAGG  758
+
+
+
+
+>Prevotella brunnea strain A2672 16S ribosomal RNA, partial sequence
+Sequence ID: NR_180411.1 Length: 1489
+Range 1: 530 to 782
+
+Score:302 bits(163), Expect:1e-81, 
+Identities:224/254(88%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGA-GA  59
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |   ||
+Sbjct  530  TACGGAAGGTCCCGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCTGTTTGA  589
+
+Query  60   TTAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+             |||||||||||||||||||||| ||||||| |||| | ||||||||||||||     ||
+Sbjct  590  -TAAGCGTGTTGTGAAATGTAGATGCTCAACATCTGAATTGCAGCGCGAACTGTCAGACT  648
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||| | ||| ||||||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  649  TGAGTACACGCAACGTGGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  708
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+             ||||||| |||||||||||||||||| |||| |  ||||||||| ||||||||| ||||
+Sbjct  709  GGAACTCCTATTGCGAAGGCAGCTCACGGGAGTGTTACTGACGCTTAAGCTCGAAGGTGC  768
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||| ||||||
+Sbjct  769  GGGTATCAAACAGG  782
+
+
+
+
+>Xylanibacter oryzae DSM 17970 strain JCM 13648 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113227.1 Length: 1490
+Range 1: 527 to 779
+
+Score:302 bits(163), Expect:1e-81, 
+Identities:224/254(88%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||     
+Sbjct  527  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCTTGG  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            |||||| |  |||||||| ||| ||||||| |||| || ||| |  |||||||     ||
+Sbjct  587  TAAGCGGGCAGTGAAATGCAGAGGCTCAACCTCTG-ACTTGCTGTTCGAACTGCCAGGCT  645
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||| | || ||||||||| ||||||||||||||||||||||||||||||| |
+Sbjct  646  TGAGTACGCACGAGGTAGGCGGAATTTGTGGTGTAGCGGTGAAATGCTTAGATATCACAA  705
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||| ||||||||||||||| || ||||||||||||||||||||||||||||||||
+Sbjct  706  AGAACTCCAATTGCGAAGGCAGCTTACCGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  765
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  766  GGGTATCGAACAGG  779
+
+
+
+
+>Hoylesella loescheii strain JCM 8530 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113109.1 Length: 1476
+Range 1: 513 to 765
+
+Score:302 bits(163), Expect:1e-81, 
+Identities:223/253(88%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  513  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCGCCT  572
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||   |  ||||||| || |   |||||||||||||||    |||
+Sbjct  573  TAAGCGTGTTGTGAAATCCGGGTGCTCAACATCCGGCTTGCAGCGCGAACTGGGGCGCTT  632
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| |||  ||||| ||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  633  GAGTGCGCTGAAAGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAG  692
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||  |||| ||||| ||||||||||| ||||||||| | |
+Sbjct  693  GAACTCCGATTGCGAAGGCAGCCTACTGTAGCGCTACTGACGCTGATGCTCGAAAGCGTG  752
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  753  GGTATCGAACAGG  765
+
+
+
+
+>Hoylesella loescheii strain JCM 12249 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113108.1 Length: 1490
+Range 1: 527 to 779
+
+Score:302 bits(163), Expect:1e-81, 
+Identities:223/253(88%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  527  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCGCCT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||   |  ||||||| || |   |||||||||||||||    |||
+Sbjct  587  TAAGCGTGTTGTGAAATCCGGGTGCTCAACATCCGGCTTGCAGCGCGAACTGGGGCGCTT  646
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| |||  ||||| ||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  647  GAGTGCGCTGAAAGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAG  706
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||  |||| ||||| ||||||||||| ||||||||| | |
+Sbjct  707  GAACTCCGATTGCGAAGGCAGCCTACTGTAGCGCTACTGACGCTGATGCTCGAAAGCGTG  766
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  767  GGTATCGAACAGG  779
+
+
+
+
+>Hoylesella loescheii strain NCTC 11321 16S ribosomal RNA, partial sequence
+Sequence ID: NR_043216.1 Length: 1451
+Range 1: 507 to 759
+
+Score:302 bits(163), Expect:1e-81, 
+Identities:223/253(88%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  507  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCGCCT  566
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            |||||||||||||||||   |  ||||||| || |   |||||||||||||||    |||
+Sbjct  567  TAAGCGTGTTGTGAAATCCGGGTGCTCAACATCCGGCTTGCAGCGCGAACTGGGGCGCTT  626
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| |||  ||||| ||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  627  GAGTGCGCTGAAAGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAG  686
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||  |||| ||||| ||||||||||| ||||||||| | |
+Sbjct  687  GAACTCCGATTGCGAAGGCAGCCTACTGTAGCGCTACTGACGCTGATGCTCGAAAGCGTG  746
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  747  GGTATCGAACAGG  759
+
+
+
+
+>Hoylesella timonensis 4401737 = DSM 22865 = JCM 15640 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113123.1 Length: 1493
+Range 1: 527 to 779
+
+Score:296 bits(160), Expect:5e-80, 
+Identities:222/253(88%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| |   ||
+Sbjct  527  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGTCTAT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||| ||   |||||||   ||   ||||||||||||||||   |||
+Sbjct  587  TAAGCGTGTTGTGAAATTTACCGGCTCAACCGGTGGCTTGCAGCGCGAACTGGTCGACTT  646
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||| |||  |||| |||||||||| ||||||||||||||||||||||||||||| || 
+Sbjct  647  GAGTATGCAGGAAGTAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAC  706
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||||||| |||||||| |||| |||  |||||||||||| |||||||||||||
+Sbjct  707  GAACTCCGATTGCGCAGGCAGCTTACTGTAGCATAACTGACGCTGATGCTCGAAAGTGCG  766
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  767  GGTATCAAACAGG  779
+
+
+
+
+>Prevotella falsenii strain 04052 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041684.1 Length: 1494
+Range 1: 531 to 783
+
+Score:296 bits(160), Expect:5e-80, 
+Identities:223/254(88%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  531  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTCCTT  590
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||| |||| ||||||| |||| || |||||||||||||| |   ||
+Sbjct  591  TAAGCGTGTTGTGAAATTTAGATGCTCAACATCTG-ACTTGCAGCGCGAACTGTTGGACT  649
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| | | ||| ||  ||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  650  TGAGTGCACGCAACGTATGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  709
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+             ||||||||||||||||||||||  || |||| | |||||||||| ||||||||| ||||
+Sbjct  710  GGAACTCCGATTGCGAAGGCAGCGTACGGGAGTGTAACTGACGCTTAAGCTCGAAGGTGC  769
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  770  GGGTATCGAACAGG  783
+
+
+
+
+>Hoylesella timonensis 4401737 = DSM 22865 = JCM 15640 16S ribosomal RNA, partial sequence
+Sequence ID: NR_043894.1 Length: 1454
+Range 1: 507 to 759
+
+Score:296 bits(160), Expect:5e-80, 
+Identities:222/253(88%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| |   ||
+Sbjct  507  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCTGTCTAT  566
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||| ||   |||||||   ||   ||||||||||||||||   |||
+Sbjct  567  TAAGCGTGTTGTGAAATTTACCGGCTCAACCGGTGGCTTGCAGCGCGAACTGGTCGACTT  626
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||| |||  |||| |||||||||| ||||||||||||||||||||||||||||| || 
+Sbjct  627  GAGTATGCAGGAAGTAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAC  686
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||||||| |||||||| |||| |||  |||||||||||| |||||||||||||
+Sbjct  687  GAACTCCGATTGCGCAGGCAGCTTACTGTAGCATAACTGACGCTGATGCTCGAAAGTGCG  746
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  747  GGTATCAAACAGG  759
+
+
+
+
+>Xylanibacter oryzae DSM 17970 strain KB3 16S ribosomal RNA, partial sequence
+Sequence ID: NR_040923.1 Length: 1335
+Range 1: 450 to 703
+
+Score:296 bits(160), Expect:5e-80, 
+Identities:224/255(88%),  Gaps:3/255(1%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||     
+Sbjct  450  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCTTGG  509
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            |||||| |  |||||||| ||| ||||||| |||| || ||| |  |||||||     ||
+Sbjct  510  TAAGCGGGCAGTGAAATGCAGAGGCTCAACCTCTG-ACTTGCTGTTCGAACTGCCAGGCT  568
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCG-TGGTGTAGCGGTGAAATGCTTAGATATCACG  178
+            ||||||||||| | || ||||||||| | |||||||||||||||||||||||||||||| 
+Sbjct  569  TGAGTACGCACGAGGTAGGCGGAATTTGTTGGTGTAGCGGTGAAATGCTTAGATATCACA  628
+
+Query  179  AAGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTG  238
+            ||||||||| ||||||||||||||| || |||||||||||||||||||||||||||||||
+Sbjct  629  AAGAACTCCAATTGCGAAGGCAGCTTACCGGAGCGCAACTGACGCTGAAGCTCGAAAGTG  688
+
+Query  239  CGGGTATCGAACAGG  253
+            |||||||||||||||
+Sbjct  689  CGGGTATCGAACAGG  703
+
+
+
+
+>Hallella multisaccharivorax strain PPPA20 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041285.1 Length: 1491
+Range 1: 527 to 779
+
+Score:296 bits(160), Expect:5e-80, 
+Identities:223/254(88%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGG-AGA  59
+            |||||||||| | || |||||||||||||||||||||||||||||||| |||| |  |||
+Sbjct  527  TACGGAAGGTTCTGGTGTTATCCGGATTTATTGGGTTTAAAGGGAGCGCAGGCTGTCAGA  586
+
+Query  60   TTAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+             ||||||||||||||||||  |  ||||||| || |||||||||||||||||| ||  ||
+Sbjct  587  -TAAGCGTGTTGTGAAATGCGGTTGCTCAACATCCGCACTGCAGCGCGAACTGTTTGACT  645
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||||||| | || || |||||| |  |||||||||||||||||||||||||  |||
+Sbjct  646  TGAGTACGCACGACGTTGGTGGAATTTGCCGTGTAGCGGTGAAATGCTTAGATATGGCGA  705
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||| || ||||||| ||||||||| | ||||||||||||
+Sbjct  706  AGAACTCCGATTGCGAAGGCAGCTGACGGGAGCGCTACTGACGCTCATGCTCGAAAGTGC  765
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  766  GGGTATCGAACAGG  779
+
+
+
+
+>Xylanibacter ruminicola strain Bryant 23 16S ribosomal RNA, partial sequence
+Sequence ID: NR_102887.1 Length: 1519
+Range 1: 525 to 777
+
+Score:291 bits(157), Expect:2e-78, 
+Identities:222/254(87%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||| |||| |  |||
+Sbjct  525  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGCAGGCTGATGAT  584
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||  ||||||||||| ||||||||| ||| |||||  ||||||||||||  |||
+Sbjct  585  TAAGCGTGACGTGAAATGTAGCCGCTCAACGGCTGAACTGCGTCGCGAACTGGTTATCTT  644
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  |  | | || ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  645  GAGTGAGTTCGATGTTGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  704
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCA-ACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||||||||||||||||||||  ||  | ||    ||||||||| ||||||||| ||||
+Sbjct  705  GAACTCCGATTGCGAAGGCAGCCAACAAG-GCCTTTACTGACGCTAAAGCTCGAAGGTGC  763
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  764  GGGTATCGAACAGG  777
+
+
+
+
+>Hoylesella buccalis strain JCM 12246 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113098.1 Length: 1493
+Range 1: 527 to 779
+
+Score:285 bits(154), Expect:1e-76, 
+Identities:221/254(87%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGG-AGA  59
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  || 
+Sbjct  527  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGCCAGG  586
+
+Query  60   TTAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+             ||||||||||||||||||||   |||||||   || | ||||||||||||||  |  ||
+Sbjct  587  -TAAGCGTGTTGTGAAATGTACCGGCTCAACCGGTGAATTGCAGCGCGAACTGTCTGGCT  645
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| | |   |||  |||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  646  TGAGTGCACGGTAAGCAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  705
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||||||||||||||||||||||  ||| || || ||||||||||| ||||||| ||||
+Sbjct  706  AGAACTCCGATTGCGAAGGCAGCTTGCTGCAGTGCGACTGACGCTGATGCTCGAAGGTGC  765
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||| ||||||
+Sbjct  766  GGGTATCAAACAGG  779
+
+
+
+
+>Segatella buccae ATCC 33574 strain JCM 12245 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113097.1 Length: 1480
+Range 1: 514 to 766
+
+Score:285 bits(154), Expect:1e-76, 
+Identities:220/253(87%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||| ||||||  |  
+Sbjct  514  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGCAGGCCGCCGTG  573
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+             |||||||  |||||| | ||  || ||||  |||| |||| |||||||||| ||  |||
+Sbjct  574  CAAGCGTGCCGTGAAAAGCAGCGGCCCAACCGCTGCCCTGCGGCGCGAACTGCTTGGCTT  633
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| |||   ||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  634  GAGTGCGCCGGAAGCGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  693
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| ||||||||||||||||| | |||  |||| ||||||||||| ||||||| |||||
+Sbjct  694  GAACCCCGATTGCGAAGGCAGCCCGCTGTGGCGCCACTGACGCTGAGGCTCGAAGGTGCG  753
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  754  GGTATCGAACAGG  766
+
+
+
+
+>Hallella bergensis strain JCM 13869 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113095.1 Length: 1495
+Range 1: 529 to 781
+
+Score:285 bits(154), Expect:1e-76, 
+Identities:221/254(87%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  | |
+Sbjct  529  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGGGT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTC-CT  119
+            |||| ||||||||||||   |  ||||||| || |   ||||||||  |||| | || ||
+Sbjct  589  TAAGTGTGTTGTGAAATCCGGTTGCTCAACATCCGGTTTGCAGCGCATACTG-TCTCACT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| ||||||| |  |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  648  TGAGTGCGCACAACGCAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+             |||| ||||||||||||||||||  | ||||||||||||||||| ||||||||| ||||
+Sbjct  708  GGAACCCCGATTGCGAAGGCAGCTTGCGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||| ||||||
+Sbjct  768  GGGTATCAAACAGG  781
+
+
+
+
+>Prevotella aurantiaca strain OMA31 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112878.1 Length: 1481
+Range 1: 529 to 781
+
+Score:285 bits(154), Expect:1e-76, 
+Identities:221/254(87%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  529  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTTTGT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||| |||  ||||||| | |  || |||||||||||||||    ||
+Sbjct  589  TAAGCGTGTTGTGAAATTTAGGTGCTCAACATTTA-ACTTGCAGCGCGAACTGGCGAACT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| | ||||| ||  ||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  648  TGAGTGCACACAACGTATGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||  || |||| | |||||||||| ||||||||| ||||
+Sbjct  708  AGAACTCCGATTGCGAAGGCAGCGTACGGGAGTGTAACTGACGCTTAAGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Segatella buccae ATCC 33574 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044631.1 Length: 1473
+Range 1: 533 to 785
+
+Score:283 bits(153), Expect:4e-76, 
+Identities:219/253(87%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||| ||||||  |  
+Sbjct  533  TACGGAAGGTCCNGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGCAGGCCGCCGTG  592
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+             |||||||  |||||| | ||  || ||||  |||| |||| |||||||||| ||  |||
+Sbjct  593  CAAGCGTGCCGTGAAAAGCAGCGGCCCAACCGCTGCCCTGCGGCGCGAACTGCTTGGCTT  652
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| |||   ||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  653  GAGTGCGCCGGAAGCGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  712
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||| ||||||||||||||||| | |||  |||| ||||||||||| ||||||| |||||
+Sbjct  713  GAACCCCGATTGCGAAGGCAGCCCGCTGTGGCGCNACTGACGCTGAGGCTCGAAGGTGCG  772
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  773  GGTATCGAACAGG  785
+
+
+
+
+>Hoylesella saccharolytica JCM 17484 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113320.1 Length: 1491
+Range 1: 527 to 779
+
+Score:279 bits(151), Expect:5e-75, 
+Identities:219/253(87%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  527  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTTTTT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||||||   |||||||   ||   |||||||||||||||    |||
+Sbjct  587  TAAGCGTGTTGTGAAATGTACCGGCTCAACCGGTGATGTGCAGCGCGAACTGGAAGACTT  646
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| || |  |||  ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  647  GAGTGCGTAGTAAGCAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  706
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||| ||| ||||||||  ||| | ||||||||||||||| ||||||||| | |
+Sbjct  707  GAACTCCGATAGCGCAGGCAGCTTGCTGCATCGCAACTGACGCTGATGCTCGAAAGCGTG  766
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  767  GGTATCAAACAGG  779
+
+
+
+
+>Prevotella pallens ATCC 700821 strain JCM 11140 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113121.1 Length: 1492
+Range 1: 529 to 781
+
+Score:279 bits(151), Expect:5e-75, 
+Identities:220/254(87%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  529  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTTTGT  588
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||| |||  ||||||| | |  || ||||||||||||||     ||
+Sbjct  589  TAAGCGTGTTGTGAAATTTAGGTGCTCAACATTTA-ACTTGCAGCGCGAACTGTCAGACT  647
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||| | ||| ||  ||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  648  TGAGTACACGCAACGTATGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  707
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||  || |||| | |||||||||| ||||||||| ||||
+Sbjct  708  AGAACTCCGATTGCGAAGGCAGCATACGGGAGTGTAACTGACGCTTAAGCTCGAAGGTGC  767
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  768  GGGTATCGAACAGG  781
+
+
+
+
+>Hoylesella nanceiensis strain JCM 15639 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113114.1 Length: 1489
+Range 1: 526 to 778
+
+Score:279 bits(151), Expect:5e-75, 
+Identities:221/255(87%),  Gaps:4/255(1%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCG-GAGA  59
+            |||||||||||| ||||||||||||||||||||||||||||||| ||||||||||   ||
+Sbjct  526  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGTGCGTAGGCCGTTTGA  585
+
+Query  60   TTAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCC  118
+             |||||||| |||||||| |||  ||||||| |||   | |||||||||||||| |   |
+Sbjct  586  -TAAGCGTGCTGTGAAATATAGTGGCTCAACCTCT-ATCGTGCAGCGCGAACTGTTGAAC  643
+
+Query  119  TTGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACG  178
+            |||||| || |  | || ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  644  TTGAGTGCGTAGTAGGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACG  703
+
+Query  179  AAGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTG  238
+            ||||||||||||||||||||||||| || | | ||  ||||||||| |||| |||| |||
+Sbjct  704  AAGAACTCCGATTGCGAAGGCAGCTTACCGTAACGTTACTGACGCTTAAGCACGAAGGTG  763
+
+Query  239  CGGGTATCGAACAGG  253
+            |||||||||||||||
+Sbjct  764  CGGGTATCGAACAGG  778
+
+
+
+
+>Hoylesella saccharolytica JCM 17484 strain D033B-12-2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_116832.1 Length: 1452
+Range 1: 507 to 759
+
+Score:279 bits(151), Expect:5e-75, 
+Identities:219/253(87%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||    |
+Sbjct  507  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTTTTT  566
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||||||   |||||||   ||   |||||||||||||||    |||
+Sbjct  567  TAAGCGTGTTGTGAAATGTACCGGCTCAACCGGTGATGTGCAGCGCGAACTGGAAGACTT  626
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| || |  |||  ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  627  GAGTGCGTAGTAAGCAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  686
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            |||||||||| ||| ||||||||  ||| | ||||||||||||||| ||||||||| | |
+Sbjct  687  GAACTCCGATAGCGCAGGCAGCTTGCTGCATCGCAACTGACGCTGATGCTCGAAAGCGTG  746
+
+Query  241  GGTATCGAACAGG  253
+            |||||| ||||||
+Sbjct  747  GGTATCAAACAGG  759
+
+
+
+
+>Hoylesella nanceiensis strain AIP 261.03 16S ribosomal RNA, partial sequence
+Sequence ID: NR_043292.1 Length: 1394
+Range 1: 477 to 729
+
+Score:279 bits(151), Expect:5e-75, 
+Identities:221/255(87%),  Gaps:4/255(1%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCG-GAGA  59
+            |||||||||||| ||||||||||||||||||||||||||||||| ||||||||||   ||
+Sbjct  477  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGTGCGTAGGCCGTTTGA  536
+
+Query  60   TTAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCC  118
+             |||||||| |||||||| |||  ||||||| |||   | |||||||||||||| |   |
+Sbjct  537  -TAAGCGTGCTGTGAAATATAGTGGCTCAACCTCT-ATCGTGCAGCGCGAACTGTTGAAC  594
+
+Query  119  TTGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACG  178
+            |||||| || |  | || ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  595  TTGAGTGCGTAGTAGGTAGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACG  654
+
+Query  179  AAGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTG  238
+            ||||||||||||||||||||||||| || | | ||  ||||||||| |||| |||| |||
+Sbjct  655  AAGAACTCCGATTGCGAAGGCAGCTTACCGTAACGTTACTGACGCTTAAGCACGAAGGTG  714
+
+Query  239  CGGGTATCGAACAGG  253
+            |||||||||||||||
+Sbjct  715  CGGGTATCGAACAGG  729
+
+
+
+
+>Hallella bergensis strain 94067913 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042857.1 Length: 1456
+Range 1: 509 to 761
+
+Score:279 bits(151), Expect:5e-75, 
+Identities:220/254(87%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  | |
+Sbjct  509  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGTGGGT  568
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTC-CT  119
+            |||| ||||||||||||   |  ||||||| || |   ||||||||  |||| |  | ||
+Sbjct  569  TAAGTGTGTTGTGAAATCCGGTTGCTCAACATCCGGTTTGCAGCGCATACTG-TCCCACT  627
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| ||||||| |  |||||||||||| ||||||||||||||||||||||||| ||||
+Sbjct  628  TGAGTGCGCACAACGCAGGCGGAATTCGTCGTGTAGCGGTGAAATGCTTAGATATGACGA  687
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+             |||| ||||||||||||||||||  | ||||||||||||||||| ||||||||| ||||
+Sbjct  688  GGAACCCCGATTGCGAAGGCAGCTTGCGGGAGCGCAACTGACGCTTAAGCTCGAAGGTGC  747
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||| ||||||
+Sbjct  748  GGGTATCAAACAGG  761
+
+
+
+
+>Xylanibacter ruminicola strain ATCC 19189 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044632.1 Length: 1473
+Range 1: 535 to 787
+
+Score:279 bits(151), Expect:5e-75, 
+Identities:218/254(86%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||  ||||||||||||||||||||||||||||||||||| |||| |  |||
+Sbjct  535  TACGGAAGGTCNNGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGCAGGCTGATGAT  594
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||  ||||||||||| |||| |||| |   |||||  ||||||||||||  |||
+Sbjct  595  TAAGCGTGACGTGAAATGTAGCCGCTNAACGGCNNAACTGCGTCGCGAACTGGTTATCTT  654
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            ||||  |  | | || ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  655  GAGTGAGTTCGATGTTGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  714
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCA-ACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||||||||||||||||||||  ||  | ||    ||||||||| ||||||||| ||||
+Sbjct  715  GAACTCCGATTGCGAAGGCAGCCAACAAG-GCCTNTACTGACGCTAAAGCTCGAAGGTGC  773
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  774  GGGTATCGAACAGG  787
+
+
+
+
+>Prevotella pallens strain 10371 16S ribosomal RNA, partial sequence
+Sequence ID: NR_026417.1 Length: 1454
+Range 1: 506 to 758
+
+Score:279 bits(151), Expect:5e-75, 
+Identities:220/254(87%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  506  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTTTGT  565
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCCT  119
+            ||||||||||||||||| |||  ||||||| | |  || ||||||||||||||     ||
+Sbjct  566  TAAGCGTGTTGTGAAATTTAGGTGCTCAACATTTA-ACTTGCAGCGCGAACTGTCAAACT  624
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||||| | ||| ||  ||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  625  TGAGTACACGCAACGTATGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  684
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            |||||||||||||||||||||||  || |||| | |||||||||| ||||||||| ||||
+Sbjct  685  AGAACTCCGATTGCGAAGGCAGCATACGGGAGTGTAACTGACGCTTAAGCTCGAAGGTGC  744
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||||||||||
+Sbjct  745  GGGTATCGAACAGG  758
+
+
+
+
+>Pseudoprevotella muciniphila strain E39 16S ribosomal RNA, partial sequence
+Sequence ID: NR_173659.1 Length: 1476
+Range 1: 522 to 774
+
+Score:274 bits(148), Expect:2e-73, 
+Identities:222/257(86%),  Gaps:8/257(3%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||  ||
+Sbjct  522  TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCGGGT-AT  580
+
+Query  61   -TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCAC-TGCAGCGCGAACTGGTTTCC  118
+             ||||   | ||||||||   | ||||||||||| |||| |||||    ||||||||  |
+Sbjct  581  CTAAGTCAGCTGTGAAATTGCGTCGCTCAACGTC-GCACCTGCAGTTGAAACTGGTTATC  639
+
+Query  119  TTGAGTACGCACAAAGTGG-GC-GGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCA  176
+            |||||| ||||||  | || || |||||||||||||||||||||||||||||||||||||
+Sbjct  640  TTGAGTGCGCACA--GCGGCGCTGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCA  697
+
+Query  177  CGAAGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAG  236
+            |||||||||||||| |||||||||| |  | || |||||||||||||||| |||||||||
+Sbjct  698  CGAAGAACTCCGATCGCGAAGGCAGGTGCCGGGGGCGCAACTGACGCTGAGGCTCGAAAG  757
+
+Query  237  TGCGGGTATCGAACAGG  253
+            || ||||||| ||||||
+Sbjct  758  TGTGGGTATCAAACAGG  774
+
+
+
+
+>Bacteroides propionicigenes strain NSJ-90 16S ribosomal RNA, partial sequence
+Sequence ID: NR_181731.1 Length: 1387
+Range 1: 478 to 730
+
+Score:274 bits(148), Expect:2e-73, 
+Identities:222/257(86%),  Gaps:8/257(3%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||| | |||| ||||||||||||||||||||||||||||||||||||||| ||  ||
+Sbjct  478  TACGGAGGATCCGAGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCGGGGTAT  537
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAA-CGTCTGCACTGCAGCGCGA-ACTGGTTTCC  118
+            ||||   |||||||||  | |  |||||| |||    | |||||   || |||||| |||
+Sbjct  538  TAAGTCAGTTGTGAAAGTTTGCGGCTCAACCGT-AAAATTGCAG-TTGATACTGGTATCC  595
+
+Query  119  TTGAGTACGCA-CA-AAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCA  176
+            ||||||  ||| || | |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  596  TTGAGT--GCAGCATAGGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCA  653
+
+Query  177  CGAAGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAG  236
+            ||||||||||||||||||||||||||||||||||| | |||||||||||| |||||||||
+Sbjct  654  CGAAGAACTCCGATTGCGAAGGCAGCTCACTGGAGTGTAACTGACGCTGATGCTCGAAAG  713
+
+Query  237  TGCGGGTATCGAACAGG  253
+            || ||||||| ||||||
+Sbjct  714  TGTGGGTATCAAACAGG  730
+
+
+
+
+>Prevotella intermedia ATCC 25611 = DSM 20706 strain JCM 11150 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113107.1 Length: 1380
+Range 1: 417 to 669
+
+Score:274 bits(148), Expect:2e-73, 
+Identities:218/253(86%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  417  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTCTGT  476
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||| |||  ||||||| ||| |  |||||||||||||||    |||
+Sbjct  477  TAAGCGTGTTGTGAAATTTAGGTGCTCAACATCTACCTTGCAGCGCGAACTGGCGGACTT  536
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| | | ||| ||  ||||||||| ||||||||||||||||||||||||||||| || 
+Sbjct  537  GAGTGCACGCAACGTATGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAC  596
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||  || |||| |  ||||||||| ||||||||| |||||
+Sbjct  597  GAACTCCGATTGCGAAGGCAGCGTACGGGAGTGTTACTGACGCTTAAGCTCGAAGGTGCG  656
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  657  GGTATCGAACAGG  669
+
+
+
+
+>Prevotella intermedia strain JCM 12248 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113106.1 Length: 1494
+Range 1: 531 to 783
+
+Score:274 bits(148), Expect:2e-73, 
+Identities:218/253(86%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  531  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTCTGT  590
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||| |||  ||||||| ||| |  |||||||||||||||    |||
+Sbjct  591  TAAGCGTGTTGTGAAATTTAGGTGCTCAACATCTACCTTGCAGCGCGAACTGGCGGACTT  650
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| | | ||| ||  ||||||||| ||||||||||||||||||||||||||||| || 
+Sbjct  651  GAGTGCACGCAACGTATGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAC  710
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||  || |||| |  ||||||||| ||||||||| |||||
+Sbjct  711  GAACTCCGATTGCGAAGGCAGCGTACGGGAGTGTTACTGACGCTTAAGCTCGAAGGTGCG  770
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  771  GGTATCGAACAGG  783
+
+
+
+
+>Bacteroides clarus YIT 12056 strain JCM 16067 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113065.1 Length: 1488
+Range 1: 526 to 778
+
+Score:274 bits(148), Expect:2e-73, 
+Identities:222/257(86%),  Gaps:8/257(3%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||| | |||| ||||||||||||||||||||||||||||||||||||||| ||  ||
+Sbjct  526  TACGGAGGATCCGAGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCGGGGTAT  585
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAA-CGTCTGCACTGCAGCGCGA-ACTGGTTTCC  118
+            ||||   |||||||||  | |  |||||| |||    | |||||   || |||||| |||
+Sbjct  586  TAAGTCAGTTGTGAAAGTTTGCGGCTCAACCGT-AAAATTGCAG-TTGATACTGGTATCC  643
+
+Query  119  TTGAGTACGCA-CA-AAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCA  176
+            ||||||  ||| || | |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  644  TTGAGT--GCAGCAGAGGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCA  701
+
+Query  177  CGAAGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAG  236
+            ||||||||||||||||||||||||||||||||||| | |||||||||||| |||||||||
+Sbjct  702  CGAAGAACTCCGATTGCGAAGGCAGCTCACTGGAGTGTAACTGACGCTGATGCTCGAAAG  761
+
+Query  237  TGCGGGTATCGAACAGG  253
+            || ||||||| ||||||
+Sbjct  762  TGTGGGTATCAAACAGG  778
+
+
+
+
+>Bacteroides clarus YIT 12056 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112893.1 Length: 1479
+Range 1: 506 to 758
+
+Score:274 bits(148), Expect:2e-73, 
+Identities:222/257(86%),  Gaps:8/257(3%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||| | |||| ||||||||||||||||||||||||||||||||||||||| ||  ||
+Sbjct  506  TACGGAGGATCCGAGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCGGGGTAT  565
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAA-CGTCTGCACTGCAGCGCGA-ACTGGTTTCC  118
+            ||||   |||||||||  | |  |||||| |||    | |||||   || |||||| |||
+Sbjct  566  TAAGTCAGTTGTGAAAGTTTGCGGCTCAACCGT-AAAATTGCAG-TTGATACTGGTATCC  623
+
+Query  119  TTGAGTACGCA-CA-AAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCA  176
+            ||||||  ||| || | |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  624  TTGAGT--GCAGCAGAGGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCA  681
+
+Query  177  CGAAGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAG  236
+            ||||||||||||||||||||||||||||||||||| | |||||||||||| |||||||||
+Sbjct  682  CGAAGAACTCCGATTGCGAAGGCAGCTCACTGGAGTGTAACTGACGCTGATGCTCGAAAG  741
+
+Query  237  TGCGGGTATCGAACAGG  253
+            || ||||||| ||||||
+Sbjct  742  TGTGGGTATCAAACAGG  758
+
+
+
+
+>Prevotella intermedia ATCC 25611 = DSM 20706 16S ribosomal RNA, partial sequence
+Sequence ID: NR_116809.1 Length: 1370
+Range 1: 496 to 748
+
+Score:274 bits(148), Expect:2e-73, 
+Identities:218/253(86%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  496  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTCTGT  555
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||| |||  ||||||| ||| |  |||||||||||||||    |||
+Sbjct  556  TAAGCGTGTTGTGAAATTTAGGTGCTCAACATCTACCTTGCAGCGCGAACTGGCGGACTT  615
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| | | ||| ||  ||||||||| ||||||||||||||||||||||||||||| || 
+Sbjct  616  GAGTGCACGCAACGTATGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAC  675
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||  || |||| |  ||||||||| ||||||||| |||||
+Sbjct  676  GAACTCCGATTGCGAAGGCAGCGTACGGGAGTGTTACTGACGCTTAAGCTCGAAGGTGCG  735
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  736  GGTATCGAACAGG  748
+
+
+
+
+>Xylanibacter brevis strain GA33 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041954.1 Length: 1493
+Range 1: 527 to 779
+
+Score:274 bits(148), Expect:2e-73, 
+Identities:222/257(86%),  Gaps:8/257(3%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||| |||| ||||||
+Sbjct  527  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGCAGGCTGGAGAT  586
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAA-CGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+            ||||||||  ||||||||  |  |||||| |||  | | |||  ||||||||||||||||
+Sbjct  587  TAAGCGTGACGTGAAATGCCGCGGCTCAACCGT-GGAAGTGCGTCGCGAACTGGTTTCCT  645
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            |||||     | | ||  ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  646  TGAGTGTATTCGACGTCAGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  705
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGC---AACTGACGCTGAAGCTCGAAAG  236
+            ||||||||||||||||||||||||  | | || ||   |||||||||| ||||||||| |
+Sbjct  706  AGAACTCCGATTGCGAAGGCAGCTGGC-G-AG-GCTATAACTGACGCTAAAGCTCGAAGG  762
+
+Query  237  TGCGGGTATCGAACAGG  253
+            |||||||||||||||||
+Sbjct  763  TGCGGGTATCGAACAGG  779
+
+
+
+
+>Prevotella intermedia strain B422 16S ribosomal RNA, partial sequence
+Sequence ID: NR_026119.1 Length: 1459
+Range 1: 502 to 754
+
+Score:274 bits(148), Expect:2e-73, 
+Identities:218/253(86%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  502  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTCTGT  561
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||| |||  ||||||| ||| |  |||||||||||||||    |||
+Sbjct  562  TAAGCGTGTTGTGAAATTTAGGTGCTCAACATCTACCTTGCAGCGCGAACTGGCGGACTT  621
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| | | ||| ||  ||||||||| ||||||||||||||||||||||||||||| || 
+Sbjct  622  GAGTGCACGCAACGTATGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAC  681
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||  || |||| |  ||||||||| ||||||||| |||||
+Sbjct  682  GAACTCCGATTGCGAAGGCAGCGTACGGGAGTGTTACTGACGCTTAAGCTCGAAGGTGCG  741
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  742  GGTATCGAACAGG  754
+
+
+
+
+>Hoylesella buccalis ATCC 35310 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044630.1 Length: 1474
+Range 1: 535 to 787
+
+Score:270 bits(146), Expect:3e-72, 
+Identities:217/254(85%),  Gaps:2/254(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGG-AGA  59
+            |||||||||||| |||||||||||||||||||||||||  |||||||||||||||  || 
+Sbjct  535  TACGGAAGGTCCNGGCGTTATCCGGATTTATTGGGTTTNNAGGGAGCGTAGGCCGCCAGG  594
+
+Query  60   TTAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCT  119
+             ||||||||||||||||||||   |||||||   |  | ||||||||||||||  |  ||
+Sbjct  595  -TAAGCGTGTTGTGAAATGTACCGGCTCAACCGGTNAATTGCAGCGCGAACTGTCTGGCT  653
+
+Query  120  TGAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGA  179
+            ||||| | |   |||  |||||||||| ||||||||||||||||||||||||||||| ||
+Sbjct  654  TGAGTGCACGGTAAGCAGGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGA  713
+
+Query  180  AGAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGC  239
+            ||||||||||||||||||||||||  ||| || || ||||||||||| ||||||| ||||
+Sbjct  714  AGAACTCCGATTGCGAAGGCAGCTTGCTGCAGTGCGACTGACGCTGATGCTCGAAGGTGC  773
+
+Query  240  GGGTATCGAACAGG  253
+            ||||||| ||||||
+Sbjct  774  GGGTATCAAACAGG  787
+
+
+
+
+>Prevotella intermedia ATCC 25611 = DSM 20706 16S ribosomal RNA, partial sequence
+Sequence ID: NR_114639.1 Length: 1364
+Range 1: 511 to 763
+
+Score:267 bits(144), Expect:4e-71, 
+Identities:216/253(85%),  Gaps:0/253(0%), Strand: Plus/Plus
+
+Query  1    TACGGAAGGTCCGGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGCGTAGGCCGGAGAT  60
+            |||||||||||| ||||||||||||||||||||||||||||||||| |||||| |    |
+Sbjct  511  TACGGAAGGTCCAGGCGTTATCCGGATTTATTGGGTTTAAAGGGAGTGTAGGCGGTCTGT  570
+
+Query  61   TAAGCGTGTTGTGAAATGTAGACGCTCAACGTCTGCACTGCAGCGCGAACTGGTTTCCTT  120
+            ||||||||||||||||| |||  ||||||| | |    |||||||||||||||    |||
+Sbjct  571  TAAGCGTGTTGTGAAATTTAGGTGCTCAACATYTAMCTTGCAGCGCGAACTGGCGGACTT  630
+
+Query  121  GAGTACGCACAAAGTGGGCGGAATTCGTGGTGTAGCGGTGAAATGCTTAGATATCACGAA  180
+            |||| | | ||| ||  ||||||||| ||||||||||||||||||||||||||||| || 
+Sbjct  631  GAGTGCACGCAACGTATGCGGAATTCATGGTGTAGCGGTGAAATGCTTAGATATCATGAC  690
+
+Query  181  GAACTCCGATTGCGAAGGCAGCTCACTGGAGCGCAACTGACGCTGAAGCTCGAAAGTGCG  240
+            ||||||||||||||||||||||  || |||| |  ||||||||| ||||||||| |||||
+Sbjct  691  GAACTCCGATTGCGAAGGCAGCGTACGGGAGTGTTACTGACGCTTAAGCTCGAAGGTGCG  750
+
+Query  241  GGTATCGAACAGG  253
+            |||||||||||||
+Sbjct  751  GGTATCGAACAGG  763
+
+
+
+
+
+
+
+		
+
+
