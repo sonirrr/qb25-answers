@@ -1,5 +1,12 @@
-# QB25 Answers
+#1.3 
+#Two tissue types (Fe and LFC.Fe) are clustering with each other 
+#one replicate of Fe is in the LFC.Fe cluster and vice versa
+#Two values have been mislabeled (rows 12 and 13)
 
-I'm feeling excited! about Quantitative Biology
+#the first principle component is explained by 
+#Physical location in the gut is separating out the clusters 
+#(RNA expression from different tissue types correlates to different regions in the gut)
 
-![](https://bioart.niaid.nih.gov/api/bioarts/629/files/660893)
+#3 
+#four clusters did not show significant enrichment
+#why???
