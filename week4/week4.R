@@ -29,18 +29,34 @@ ggplot(counts_ages, aes(x = Father_age, y = Father)) +
   geom_point() + 
   labs(x = "Paternal Age", y = "DNM Frequency")
 
+
 lm(data = counts_ages, 
-   formula = Mother_age ~ Mother) %>%
+   formula = Mother ~ Mother_age) %>%
   summary()
 
 lm(data = counts_ages,
-   formula = Father_age ~ Father) %>%
+   formula = Father ~ Father_age) %>%
   summary()
 
-ggplot(counts_ages, aes(x = Mother_age, fill = group)) +
+t.test(counts_ages$Mother, counts_ages$Father, paired = TRUE)
+
+diff_dnm <- counts_ages$Mother - counts_ages$Father
+
+lm(diff_dnm ~1) %>%
+  summary()
+
+ggplot(counts_ages, aes(x = Mother, y = Father)) + 
+  geom_point()
+
+df <- data.frame(
+  value = c(dnm_mother, dnm_father),
+  dataset = factor(c(rep("Mother", length(dnm_mother)), rep("Father", length(dnm_father))))
+)
+
+ggplot(df, aes(x = value, fill = dataset)) +
   geom_histogram(alpha = 0.5, position = "identity", bins = 30) +
-  labs(title = "Overlapping Histograms with Transparency", x = "Value", y = "Frequency") +
-  theme_minimal()  
+  scale_fill_manual(values = c("Mother" = "blue", "Father" = "red")) +
+  theme_minimal()
   
 
 #for question 3, downloaded Gutenberg data from Tidy Tuesday Github
@@ -84,4 +100,25 @@ x <- gutenberg_metadata %>% filter(gutenberg_author_id == final_guten$Author.ID)
 final_guten$Book.ID <- gutenberg_metadata[gutenberg_author_id == final_guten$Author.ID]$gutenberg_id
 
 
+palmtrees <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-03-18/palmtrees.csv')
+palmtrees$fruit_size_categorical <- as.factor(palmtrees$fruit_size_categorical)
 
+
+#Plotting fruit length as a function of height
+ggplot(palmtrees, aes(x = max_stem_height_m, y = max_fruit_length_cm))+
+  geom_point() 
+ggplot(palmtrees, aes(x = max_leaf_number, y = max_fruit_length_cm)) + 
+  geom_point()
+#Plotting fruit width vs length
+ggplot(palmtrees, aes(x = average_fruit_length_cm, y = average_fruit_width_cm, fill = fruit_size_categorical))+
+  geom_point(shape = 21, size = 2)
+
+#Linear model hypothesis: Do trees with more leaves grow bigger fruit? 
+lm(data = palmtrees, 
+   formula = average_fruit_length_cm ~ max_leaf_number) %>%
+  summary()
+#Yes and this is statistically significant (p-value 1.06e-12)
+#slope is very small though (0.05), so this is a very small correlation
+#could be argued that this is not a correlation, but I think it might be a small correlation because
+#every extra leaf probably has a very, very small effect on tree photosynthesis
+#could also be that healthier trees overall have more fruit and more leaves, but would need more data to determine this
